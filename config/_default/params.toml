@@ -110,9 +110,9 @@ enable = false
 clickup_iframe_url = ""
 
 [[social]]
-icon = "fab fa-github"
+icon = "fab fa-twitter"
 link = "#"
-title = "github"
+title = "X"
 [[social]]
 icon = "fab fa-linkedin"
 link = "#"

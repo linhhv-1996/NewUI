@@ -88,7 +88,7 @@ p {
     color: #414141 !important;
 }
 
-.wave-block {
+footer {
     margin-top: 40px;
 }
 
@@ -119,3 +119,75 @@ footer .footer-menu {
     }
 }
 
+.section-title {
+    margin-bottom: 0;
+}
+
+.section-title h2 {
+    margin-bottom: 0;
+}
+
+.section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.footer-bottom p {
+    margin-bottom: 0;
+}
+
+@media (min-width: 1400px) and (max-width: 1599px) {
+    .navigation .container-delta {
+        max-width: 1140px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    footer .container-delta {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+header .container-delta {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+
+.max-1140, .container-delta {
+    max-width: 1140px !important;
+}
+
+.banner-1 {
+    max-width: 1120px !important;
+}
+
+.wrap-block {
+    max-width: 1120px;
+}
+
+@media screen and (max-width: 768px) {
+    .banner-1 {
+        max-width: 95% !important;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+}
+
+.h5 {
+    font-size: 21.04px !important;
+}
+
+.rounded-lg {
+    border-radius: 5px;
+}
+
+.card-body p.mb-0 {
+    font-size: 16px;
+}
+
+.banner .block {
+    padding-bottom: 40px;
+}
