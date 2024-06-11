@@ -106,4 +106,16 @@ footer .footer-menu {
     margin-right: auto;
 }
 
+.banner-1 .block {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+@media screen and (max-width: 768px){
+    .banner-1 .block {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
 
