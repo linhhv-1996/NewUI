@@ -22,9 +22,9 @@ banner:
     video_url: 
 
   join_waitlist:
-    enable: true
+    enable: false
     button_label: "Contact for Demo" # previous button name was Join Waitlist 
-    clickup_iframe_url: "https://forms.clickup.com/9006002197/f/8cctc0n-11720/8GEW4HG1M3D5G252CY"
+    clickup_iframe_url: "#"
 
   # If lottie is enable image will not show as static image. Automatically lottie animation will load.
   image:
