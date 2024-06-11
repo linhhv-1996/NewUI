@@ -100,14 +100,14 @@
       <div class="row gy-4 row-cols-1 row-cols-sm-3 row-cols-lg-3">
         {{ with site.Menus.footer_menu_2 }}
           <div class="col block">
-            <h4
+            <h5
               class="footer-menu-title {{ if $footer_light }}
                 text-dark
               {{ else }}
                 text-white
               {{ end }}">
               {{ i18n `footer_menu_2_title` }}
-            </h4>
+            </h5>
             <ul class="list-unstyled mb-0">
               {{ range . }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -117,14 +117,14 @@
         {{ end }}
         {{ with site.Menus.footer_menu_3 }}
           <div class="col block">
-            <h4
+            <h5
               class="footer-menu-title {{ if $footer_light }}
                 text-dark
               {{ else }}
                 text-white
               {{ end }}">
               {{ i18n `footer_menu_3_title` }}
-            </h4>
+            </h5>
             <ul class="list-unstyled mb-0">
               {{ range . }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -134,14 +134,14 @@
         {{ end }}
         {{ with site.Menus.footer_menu_4 }}
           <div class="col block">
-            <h4
+            <h5
               class="footer-menu-title {{ if $footer_light }}
                 text-dark
               {{ else }}
                 text-white
               {{ end }}">
               {{ i18n `footer_menu_4_title` }}
-            </h4>
+            </h5>
             <ul class="list-unstyled mb-0">
               {{ range . }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -151,14 +151,14 @@
         {{ end }}
         {{ with site.Menus.footer_menu_5 }}
           <div class="col block">
-            <h4
+            <h5
               class="footer-menu-title {{ if $footer_light }}
                 text-dark
               {{ else }}
                 text-white
               {{ end }}">
               {{ i18n `footer_menu_5_title` }}
-            </h4>
+            </h5>
             <ul class="list-unstyled mb-0">
               {{ range . }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>

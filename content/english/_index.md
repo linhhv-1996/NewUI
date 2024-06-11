@@ -6,25 +6,19 @@ banner:
   title_color: ""
   description:
     Welcome to Cyber Shield, your premier source for exploring the intersection of cybersecurity and artificial intelligence. 
-    
+    <br>
     In an era where digital threats are becoming increasingly sophisticated, our blog aims to keep you informed about the latest AI-driven strategies and technologies that are revolutionizing the field of cyber defense.
-
 
   description_color: ""
   button:
-    enable: false
+    enable: true
     label: Contact Us
     icon: fas fa-arrow-right
     link: contact/
   video_button:
-    enable: false
+    enable: true
     label: Watch demo
     video_url: 
-
-  join_waitlist:
-    enable: false
-    button_label: "Contact for Demo" # previous button name was Join Waitlist 
-    clickup_iframe_url: "#"
 
   # If lottie is enable image will not show as static image. Automatically lottie animation will load.
   image:
@@ -32,16 +26,6 @@ banner:
     src: "images/banner/homepage/homepage-banner.svg"
     background: "#4B4B4C" # original used color code - 4B4B4C or use 121826 or 454545 or 4f4b49
     padding: "60px 0"
-
-  # If lottie is disabled then static image will show in that place automatically. 
-  lottie: 
-    enable: false
-    json: "lottie/homepage_concept.json"
-    background: "#223038" #4B4B4C
-    speed: "1"
-    loop: "true"
-    autoplay: "true"
-
 
 brands:
   enable: true
@@ -70,13 +54,8 @@ platforms:
     #link: "/capten"
     link: ""
 
-    
-how_it_works:
-  enable: false
-  section: how-it-works
-
 image_and_content_block:
-  enable: false
+  enable: true
   subtitle: We Are IntelOps
   subtitle_color: ""
   #title: Lots of people love us, <br> and we're also.
