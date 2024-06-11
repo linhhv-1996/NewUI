@@ -1,0 +1,270 @@
+# product_optimizor = []
+[[footer_menu_1]]
+name = "Compage"
+url = "/compage"
+weight = 1
+[[footer_menu_1]]
+name = "Capten"
+url = "/capten"
+weight = 2
+[[footer_menu_1]]
+name = "QualityTrace"
+url = "/quality-trace"
+weight = 3
+[[footer_menu_1]]
+name = "Opty"
+url = "/opty"
+weight = 4
+[[footer_menu_1]]
+name = "KubViz"
+url = "/kubviz"
+weight = 5
+[[footer_menu_1]]
+name = "Tarian"
+url = "/tarian"
+weight = 6
+
+[[footer_menu_2]]
+name = "Docs"
+url = "https://docs.intelops.ai/"
+weight = 1
+[[footer_menu_2]]
+name = "Blogs"
+url = "/blog"
+weight = 2
+# [[footer_menu_2]]
+# name = "Mindmaps"
+# url = "/mindmaps"
+# weight = 3
+[[footer_menu_2]]
+name = "Learning Center"
+url = "/learning-center"
+weight = 4
+# [[footer_menu_2]]
+# name = "Our OpenSource Projects"
+# url = "/kubviz"
+# weight = 5
+# [[footer_menu_2]]
+# name = "Contributed OpenSource Projects"
+# url = "/tarian"
+# weight = 6
+
+[[footer_menu_3]]
+# name = "Services"
+# url = "/services-form/"
+# weight = 1
+# [[footer_menu_3]]
+# name = "Certified Partner Program"
+# url = "/certified-partner-program/"
+# weight = 2
+[[footer_menu_3]]
+name = "Contact Us"
+url = "/contact/"
+weight = 3
+# [[footer_menu_3]]
+# name = "Privacy Policy"
+# url = "#!"
+# weight = 4
+# [[footer_menu_3]]
+# name = "Terms & Conditions"
+# url = "/licensing-terms-conditions/2-terms-and-conditions"
+# weight = 5
+# [[footer_menu_3]]
+# name = "Licensing"
+# url = "/licensing-terms-conditions/1-licensing"
+# weight = 6
+
+# [[footer_menu_4]]
+# name = "About Us"
+# url = "/about/"
+# weight = 1
+[[footer_menu_4]]
+name = "Book a Demo"
+url = "/contact/"
+weight = 2
+# [[footer_menu_4]]
+# name = "Login"
+# url = "https://capten.cloud/"
+# weight = 3
+# [[footer_menu_4]]
+# name = "Sign Up"
+# url = "https://capten.cloud/"
+# weight = 4
+
+# Display Home button in Header menu bar on top
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+# [[main]]
+# hasChildren = true
+# name = "Platform"
+# url = "platform/"
+# weight = 2
+# [main.params]
+# isMenuLarge = true
+
+# [[main]]
+# name = "Compage"
+# parent = "Platform"
+# url = "/compage"
+# weight = 1
+# pre = "images/icons/compage.svg"
+# post = "<small>Developers' Delight</small>"
+
+# [[main]]
+# name = "Capten"
+# parent = "Platform"
+# url = "/capten"
+# weight = 2
+# pre = "images/icons/capten.svg"
+# post = "<small>Universal Orchestrator</small>"
+
+# [[main]]
+# name = "QualityTrace"
+# parent = "Platform"
+# url = "/quality-trace"
+# weight = 3
+# pre = "images/icons/quality-trace.svg"
+# post = "<small>Tracing Based Testing</small>"
+
+# [[main]]
+# name = "Opty"
+# parent = "Platform"
+# url = "/opty"
+# weight = 4
+# pre = "images/icons/opty.svg"
+# post = "<small>Optimize What You Want</small>"
+
+# [[main]]
+# name = "KubViz"
+# parent = "Platform"
+# url = "/kubviz"
+# weight = 5
+# pre = "images/icons/kubviz.svg"
+# post = "<small>Observability for Ops & SREs</small>"
+
+# [[main]]
+# name = "Tarian"
+# parent = "Platform"
+# url = "/tarian"
+# weight = 6
+# pre = "images/icons/tarian.svg"
+# post = "<small>Run Time Protection for K8s</small>"
+
+# [[main]]
+# name = "Learning Center"
+# url = "learning-center/"
+# weight = 4
+
+# [[main]]
+# name = "Open Source"
+# url = "/opensource"
+# weight = 10
+# [main.params]
+# isMenuLarge = true
+
+# [[main]]
+# name = "Our open source"
+# parent = "Open Source"
+# url = "/our-open-source"
+# weight = 1
+# pre = "images/icons/opensource.png"
+# post = "<small>Convert leads and close sales deals faster.</small>"
+
+# [[main]]
+# name = "Contributed open source"
+# parent = "Open Source"
+# url = "/contributed-open-source"
+# weight = 2
+# pre = "images/icons/opensource.png"
+# post = "<small>Convert leads and close sales deals faster.</small>"
+
+[[main]]
+name = "Blogs"
+url = "blog/"
+weight = 20
+
+# services page
+# [[main]]
+# name = "Services"
+# url = "/services-form"
+# weight = 40
+# [main.params]
+# isMenuLarge = true
+# parent= "Services"
+# [[main]]
+# name = "Custom Services"
+# parent = "Services"
+# url = "/services-form"
+# weight = 1
+# pre = "images/icons/opensource.png"
+# post = "<small>Cloud Native Development Services, and SRE, DevSecOps & Platform Engineering Services</small>"
+
+
+[[main]]
+hasChildren = true
+name = "Resources"
+url = "resources/"
+weight = 50
+[[main]]
+name = "Events & Webinars"
+parent = "Resources"
+url = "events/"
+weight = 7
+# [[main]]
+# name = "Licensing"
+# parent = "Resources"
+# url = "licensing-terms-conditions/1-licensing"
+# weight = 6
+# [[main]]
+# name = "Terms & Conditions"
+# parent = "Resources"
+# url = "licensing-terms-conditions/2-terms-and-conditions"
+# weight = 5
+[[main]]
+name = "Privacy Policy"
+parent = "Resources"
+url = "privacy-policy/"
+weight = 4
+# [[main]]
+# name = "About Us"
+# parent = "Resources"
+# url = "about/"
+# weight = 3
+# [[main]]
+# name = "Team"
+# parent = "Resources"
+# url = "team/"
+# weight = 2
+# [[main]]
+# name = "Mindmaps"
+# parent = "Resources"
+# url = "mindmaps/"
+# weight = 2
+# [[main]]
+# name = "Contact Us"
+# parent = "Resources"
+# url = "contact/"
+# weight = 3
+[[main]]
+name = "Learning Center"
+parent = "Resources"
+url = "learning-center/"
+weight = 1
+# [[main]]
+# name = "Certified"
+# parent = "Resources"
+# url = "certified/"
+# weight = 2
+# [[main]]
+# name = "Partner Program"
+# parent = "Resources"
+# url = "partner-program/"
+# weight = 2
+
+[[main]]
+name = "Contact Us"
+url = "/contact/"
+weight = 60

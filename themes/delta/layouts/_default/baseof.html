@@ -1,0 +1,81 @@
+<!--
+
+PROJECT: delta
+VERSION: 1.0.0
+AUTHOR: Gethugothemes
+AUTHOR WEBSITE: https://gethugothemes.com
+
+-->
+
+<!doctype html>
+<html lang="{{ site.LanguageCode | default `en-US` }}">
+  <head>
+    {{ partial "head.html" . }}
+
+
+    <!-- cache partial only in production -->
+    {{ if hugo.IsProduction }}
+      {{ partialCached "style.html" . }}
+    {{ else }}
+      {{ partial "style.html" . }}
+    {{ end }}
+  </head>
+
+  <body>
+    <!-- google tag manager noscript -->
+    {{ partial "gtm-noscript.html" . }}
+
+
+    <!-- cache partial only in production -->
+    {{ if hugo.IsProduction }}
+      {{ partialCached "preloader.html" . }}
+    {{ else }}
+      {{ partial "preloader.html" . }}
+    {{ end }}
+
+
+    <main>{{ block "main" . }}{{ end }}</main>
+    <main class="pt-0">{{ block "main-sm" . }}{{ end }}</main>
+
+    <!-- cache partial only in production -->
+    {{ if hugo.IsProduction }}
+      {{ partialCached "script.html" . }}
+      {{ if or (eq .Section "events") (eq .Section "campaign") }}
+        {{ partial "footer-events.html" . }}
+      {{ else }}
+        {{ partialCached "footer.html" . }}
+      {{ end }}
+    {{ else }}
+      {{ partial "script.html" . }}
+      {{ if or (eq .Section "events") (eq .Section "campaign") }}
+        {{ partial "footer-events.html" . }}
+      {{ else }}
+        {{ partial "footer.html" . }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Tawk.to */}}
+    {{ if not .Params.hide_tawk }}
+      {{ partial "tawk.html" }}
+    {{ end }}
+
+    <button class="goto-top" id="gotoTop" onclick="topFunction();">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <script>
+      const gotoTop = document.getElementById('gotoTop');
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+            gotoTop.style.display = "block";
+        } else {
+            gotoTop.style.display = "none";
+        }
+      }
+      function topFunction() {
+          window.scrollTo({top: 0, behavior: 'smooth'});
+      }
+    </script>
+  </body>
+</html>

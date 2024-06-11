@@ -1,0 +1,119 @@
+#################### default parameters ################################
+favicon = "images/favicon/new-intelops-fav-icon.png"
+image = "images/logo.png"
+logo = "images/logos/new-logo-dark.svg"
+logo_light = "images/logos/new-logo-light.svg"
+logo_dark = "images/logos/new-logo-dark.svg"
+footer_logo_dark = false
+logo_webp = false
+logo_text = "Intelops"
+logo_width = "130px"
+# Main Sections
+mainSections = ["blog"]
+
+google_tag_manager = ""
+google_adsense = ""
+
+mobile = "+211234565523"
+email = "info@email.com"
+description = "Next-Gen Ai based solution to democratize cloud native, software supply chain security, quality engineering, Kubernetes and security using Kernel technology like eBPF and Machine Learning. Empower Engineers to easily adopt concepts like cloud-native, webassembly, chaos engineering, detection engineering, security chaos engineering, gitops, self service, platform engineering, etc. Imagination is your limit!"
+
+
+fullSiteSearch = true
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script = ""
+
+# Contact Form Action
+career_form_action = "#!"
+contact_form_action = "#!"
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["Intelops", "Cloud-Native", "Ai", "DevOps", "SRE", "Kubernetes", "Talent", "Democratize", "Next-Gen"]
+description = "Democratizing Cloud Native. Making Imagination a Reality."
+author = "Intelops"
+image = "images/og-image.jpg"
+
+
+# Footer Configuration
+[footer]
+footer_light = false
+# bg_color = "#1e384c"
+# bg_image = "images/bg-banner-page.jpg"
+bg_image_overlay_color = "rgba(0,0,0,.65)"
+
+
+# Call To Action
+[call_to_action]
+enable = false
+title = "Looking for Cloud-Native Implementation?"
+image = "images/footer/homepage/contact-image.svg"
+subtitle = "Finding the right talent is pain. More so, keeping up with concepts, culture, technology and tools. We all have been there. Our AI-based automated solutions helps eliminate these issues, making your teams lives easy."
+button_label = "Contact Us"
+button_link = "contact/"
+
+
+# Call To Action
+[cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+enable = false
+expire_days = 2
+
+
+[navigation_button]
+enable = false
+icon = "far fa-user"
+label = "Log In"
+link = "#!"
+
+[navigation_button_two]
+enable = false
+label = "Sign Up Now"
+link = "#!"
+
+
+[preloader]
+enable = false
+preloader = "images/loader.png"
+
+[clickup_form]
+enable = true
+
+[newsletter]
+enable = true
+clickup_iframe_url = ""
+button_label = "Subscribe for Newsletter"
+
+[blog_popup]
+enable = false
+clickup_iframe_url = ""
+
+[learning_center_popup]
+enable = false
+clickup_iframe_url = ""
+
+[opensource_security_reporting]
+enable = false
+clickup_iframe_url = ""
+
+[product_demo_request_form]
+enable = false
+clickup_iframe_url = ""
+
+[upcoming_events_popup_form]
+enable = false
+clickup_iframe_url = ""
+
+[ondemand_events_popup_form]
+enable = false
+clickup_iframe_url = ""
+
+[[social]]
+icon = "fab fa-github"
+link = "#"
+title = "github"
+[[social]]
+icon = "fab fa-linkedin"
+link = "#"
+title = "linkedin"
