@@ -3,11 +3,11 @@
 {{with .Params.bannerimage }}
 {{$img:= resources.Get . }}
 <section class="page-header wave-block"
-style="background-image: url({{$img.RelPermalink}});
-       background-repeat: no-repeat;
-       background-position: center center;
-       background-attachment: fixed;
-       background-size: cover;">
+style="
+background: #191919;
+max-width: 1140px;
+margin-left: auto;
+margin-right: auto;">
 {{end}}
 
   <div class="container container-delta">

@@ -1,13 +1,14 @@
 #################### default parameters ################################
 favicon = "images/favicon/new-intelops-fav-icon.png"
-image = "images/logo.png"
-logo = "images/logos/new-logo-dark.svg"
-logo_light = "images/logos/new-logo-light.svg"
-logo_dark = "images/logos/new-logo-dark.svg"
+image = "images/logo.svg"
+logo = "images/logo.svg"
+logo_light = "images/logo.svg"
+logo_dark = "images/logo.svg"
+logo_footer = "images/logo-footer.png"
 footer_logo_dark = false
 logo_webp = false
-logo_text = "Intelops"
-logo_width = "100px"
+logo_text = "Lindane.co"
+logo_width = "130px"
 # Main Sections
 mainSections = ["blog"]
 
@@ -111,9 +112,9 @@ clickup_iframe_url = ""
 
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/linhhv_me"
 title = "X"
 [[social]]
 icon = "fab fa-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/hoang-van-linh-173362256/"
 title = "linkedin"
