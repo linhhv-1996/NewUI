@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://hugo-intelops-ui.onrender.com"
-title = "Intelops"
+title = "lindane.co"
 theme = "delta"
 timeZone = "America/New_York"
 paginate = 8
 summaryLength = 10
 googleAnalytics = ""
-disqusShortname = "themefisher-template"
+
 disableLanguages = [
   "fr",
 ]
