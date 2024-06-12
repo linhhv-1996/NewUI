@@ -53,21 +53,6 @@
         </a>
       </div>
       <div class="col-lg-4 text-center">
-        <!-- {{ if site.Params.fullSiteSearch }}
-          <button
-            class="btn-search-footer rounded-sm border-0 outline-none py-1 ps-3 pe-4 text-start bg-transparent {{ if $footer_light }}
-              text-dark
-            {{ else }}
-              text-white
-            {{ end }}"
-            data-bs-toggle="modal"
-            data-bs-target="#searchModal">
-            <i class="fas fa-search me-1"></i>
-            <span>Search on this Site</span>
-          </button>
-        {{ end }}
-        <br /> -->
-
         {{ with site.Params.newsletter }}
           {{ if .enable }}
           <script async data-uid="be0daf1330" src="https://worksmartertool.ck.page/be0daf1330/index.js"></script>
@@ -81,7 +66,7 @@
             class="list-inline social-links d-flex flex-wrap justify-content-center justify-content-lg-end mb-0">
             {{ range . }}
               <li class="list-inline-item">
-                <a href="{{ .link }}" title="{{ .name | humanize }}">
+                <a href="{{ .link }}" title="{{ .name | humanize }}" aria-label="{{ .title }}">
                   <i class="{{ .icon }}"></i>
                 </a>
               </li>
