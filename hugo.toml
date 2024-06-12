@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = ""
+baseURL = "https://hugo-intelops-ui.onrender.com"
 title = "Intelops"
 theme = "delta"
 timeZone = "America/New_York"
