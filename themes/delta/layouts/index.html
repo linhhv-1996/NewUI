@@ -22,7 +22,7 @@
 
           {{with .button}}
           {{if .enable}}
-          <a href="{{.link | relLangURL}}" class="btn m-1">
+          <a href="{{.link | relLangURL}}" class="btn m-1" aria-label="{{.label}}">
             {{.label}} <i class="arrow-right {{.icon}}"></i>
           </a>
           {{end}}
@@ -109,7 +109,7 @@
 
           {{with .button}}
           {{if .enable}}
-          <a href="{{.link | relLangURL}}" class="btn btn-primary mt-3">
+          <a href="{{.link | relLangURL}}" class="btn btn-primary mt-3" aria-label="{{.label}}">
             {{.label}} <i class="arrow-right {{.icon}}"></i>
           </a>
           {{end}}
@@ -132,7 +132,7 @@
           <h3 class="title h4" {{with .title_color}}style="color:{{.}} !important"{{end}}>{{.title | markdownify}}</h3>
           <p class="mb-0" {{with .content_color}}style="color:{{.}} !important"{{end}}>{{.content}}</p>
           <div class="text-end mt-2">
-            <a href="{{.link | absURL}}" class="btn btn-secondary btn-sm">{{.link_label | markdownify}}<i class="fas fa-arrow-right ms-1 small"></i></a>
+            <a href="{{.link | absURL}}" class="btn btn-secondary btn-sm" aria-label="{{.link_label}}">{{.link_label | markdownify}}<i class="fas fa-arrow-right ms-1 small"></i></a>
           </div>
         </div>
         {{end}}
