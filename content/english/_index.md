@@ -43,7 +43,7 @@ features:
   section: features
 
 platforms:
-  enable: false
+  enable: true
   title: "How capten stack works? <br/> Check our Platform pages."
   title_color: ""
   image: "images/footer/compage/compage.svg"
@@ -55,7 +55,7 @@ platforms:
     link: ""
 
 image_and_content_block:
-  enable: true
+  enable: false
   subtitle: We Are IntelOps
   subtitle_color: ""
   #title: Lots of people love us, <br> and we're also.
