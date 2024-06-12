@@ -7,7 +7,7 @@ logo_dark = "images/logos/new-logo-dark.svg"
 footer_logo_dark = false
 logo_webp = false
 logo_text = "Intelops"
-logo_width = "130px"
+logo_width = "100px"
 # Main Sections
 mainSections = ["blog"]
 
