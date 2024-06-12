@@ -258,7 +258,7 @@
       <div class="col-lg-6">
         {{ range first 3 (where site.RegularPages "Section" (string .section)) }}
         <div class="features-box mb-4">
-          <a href="{{.RelPermalink}}" class="block rounded-md shadow-md text-reset p-3 p-md-4 d-block">
+          <a href="{{.RelPermalink}}" class="block rounded-md shadow-md text-reset p-3 p-md-4 d-block" aria-label="About">
             <h3 class="h4" {{with .Params.title_color}}style="color:{{.}} !important"{{end}}>{{.Title | markdownify}}</h3>
             <ul class="list-unstyled list-inline mb-0">
               <li class="list-inline-item me-2">
