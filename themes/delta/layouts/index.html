@@ -314,7 +314,7 @@
       </div>
     </div>
     <div class="row gy-3 justify-content-center">
-      {{range first 3 (where site.RegularPages "Section" "in" site.Params.mainSections)}}
+      {{range first 6 (where site.RegularPages "Section" "in" site.Params.mainSections)}}
       <div class="col-lg-4 col-md-6 blog-card">
         {{ .Render "article" }}
       </div>

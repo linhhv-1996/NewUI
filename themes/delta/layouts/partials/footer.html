@@ -53,7 +53,7 @@
         </a>
       </div>
       <div class="col-lg-4 text-center">
-        {{ if site.Params.fullSiteSearch }}
+        <!-- {{ if site.Params.fullSiteSearch }}
           <button
             class="btn-search-footer rounded-sm border-0 outline-none py-1 ps-3 pe-4 text-start bg-transparent {{ if $footer_light }}
               text-dark
@@ -66,20 +66,14 @@
             <span>Search on this Site</span>
           </button>
         {{ end }}
-        <br />
+        <br /> -->
 
         {{ with site.Params.newsletter }}
           {{ if .enable }}
-            <button
-              class="btn btn-primary btn-sm mt-2"
-              type="button"
-              data-bs-toggle="modal"
-              data-src="{{ .video_url | safeURL }}"
-              data-bs-target="#subscriptionModal">
-              {{ .button_label }}
-            </button>
+          <script async data-uid="be0daf1330" src="https://worksmartertool.ck.page/be0daf1330/index.js"></script>
           {{ end }}
         {{ end }}
+
       </div>
       {{ with site.Params.social }}
         <div class="col-lg-4">

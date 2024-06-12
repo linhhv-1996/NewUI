@@ -215,3 +215,41 @@ header .container-delta {
     border-top-right-radius: 20px;
 }
 
+.formkit-header, .formkit-guarantee, .formkit-powered-by-convertkit-container {
+    display: none !important;
+}
+
+.formkit-form {
+    background: transparent !important;
+    border: none !important;
+}
+
+.formkit-submit {
+    border-radius: 26px !important;
+    font-weight: bold;
+    margin-bottom: 0 !important;
+    background: linear-gradient(135deg, #f49163 0%, #ef5e1b 100%) !important;
+}
+
+.formkit-subheader p {
+    color: #cfcfcf !important;
+    font-size: 15px !important;
+}
+
+.formkit-form[data-uid="be0daf1330"][min-width~="600"] [data-style="minimal"] {
+    padding: 20px !important;
+    padding-bottom: 0 !important;
+}
+
+footer {
+    padding: 20px 0 0;
+}
+
+footer .footer-menu ul li:not(:last-child) {
+    margin-bottom: 0;
+}
+
+footer .footer-menu {
+    margin-top: 30px;
+}
+
