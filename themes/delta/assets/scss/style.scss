@@ -66,6 +66,8 @@ $font-icon: '{{.font_icon | default "Font Awesome 5 Free"}}';
 
 .goto-top {
     display: none;
+    align-items: center;
+    justify-content: center;
     border: none;
     background: linear-gradient(135deg, #f49163 0%, #ef5e1b 100%);
     color: white;
