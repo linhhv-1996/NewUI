@@ -29,7 +29,7 @@ banner:
     padding: "60px 0"
 
 brands:
-  enable: true
+  enable: false
   title: Embrace intelligent AI solutions crafted to enhance <br>efficiency, productivity, and profitability.
   title_color: ""
   images:
@@ -57,18 +57,13 @@ platforms:
 
 image_and_content_block:
   enable: false
-  subtitle: We Are LinDane
+  subtitle: ""
   subtitle_color: ""
-  # title: Lots of people love us, <br> and we're also.
-  title: Create Content Like a Startup, Not a Writer.
+  title: The Power of AI for Business Success
   title_color: ""
   image: images/content/compage/what-is-compage.svg
   content_position: left
-  #content: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-   # cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
-   # amet ligula. Vestibulum\n\n* luctus et ultrices uere cubia Curae Donec verglit\n*
-   # Neque auctor congue leo eget malesuada Vivamus\n* Sit amet dui Nulla quis lorem
-   # ut libero malesuada feugiat\n* Donec verglit neque, auctor congue leo  malesuada. "
+  content: "AI revolutionizes business success by optimizing operations, enhancing customer experiences, and driving innovation. By analyzing vast data sets, AI provides actionable insights, automates tasks, and personalizes marketing strategies, fostering growth and competitive advantage."
   content_color: ""
   
 slider_and_content_block:

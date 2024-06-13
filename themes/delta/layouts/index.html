@@ -214,7 +214,7 @@
 
 {{with .Params.image_and_content_block}}
 {{if .enable}}
-{{ partial "image-and-content-block.html" (dict "BgColor" .bg_color "SectionClass" "pt-0" "ContainerClass" "container-delta" "RowClass" "" "ContentPosition" .content_position "Subtitle" .subtitle "SubtitleColor" .subtitle_color "Title" .title "TitleColor" .title_color "Content" .content "ContentColor" .content_color "Image" .image )}}
+{{ partial "image-and-content-block.html" (dict "BgColor" .bg_color "SectionClass" "" "ContainerClass" "container-delta" "RowClass" "" "ContentPosition" .content_position "Subtitle" .subtitle "SubtitleColor" .subtitle_color "Title" .title "TitleColor" .title_color "Content" .content "ContentColor" .content_color "Image" .image )}}
 {{end}}
 {{end}}
 
@@ -302,7 +302,7 @@
 
 {{with .Params.blog}}
 {{if .enable}}
-<section class="section wrap-block bg-soft rounded-lg wave-block blog-block pt-0 pb-0">
+<section class="section wrap-block bg-soft rounded-lg wave-block blog-block pb-0">
   <div class="container container-delta">
     <div class="row">
       <div class="col-12 text-center">

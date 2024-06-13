@@ -24,22 +24,17 @@ name = "Tarian"
 url = "/tarian"
 weight = 6
 
-[[footer_menu_2]]
-name = "Docs"
-url = "https://docs.intelops.ai/"
-weight = 1
+
 [[footer_menu_2]]
 name = "Blogs"
 url = "/blog"
 weight = 2
+
 # [[footer_menu_2]]
 # name = "Mindmaps"
 # url = "/mindmaps"
 # weight = 3
-[[footer_menu_2]]
-name = "Learning Center"
-url = "/learning-center"
-weight = 4
+
 # [[footer_menu_2]]
 # name = "Our OpenSource Projects"
 # url = "/kubviz"
@@ -61,10 +56,10 @@ weight = 4
 name = "Contact Us"
 url = "/contact/"
 weight = 3
-# [[footer_menu_3]]
-# name = "Privacy Policy"
-# url = "#!"
-# weight = 4
+[[footer_menu_3]]
+name = "Privacy Policy"
+url = "#!"
+weight = 4
 # [[footer_menu_3]]
 # name = "Terms & Conditions"
 # url = "/licensing-terms-conditions/2-terms-and-conditions"
@@ -213,11 +208,7 @@ weight = 20
 # parent = "Resources"
 # url = "events/"
 # weight = 7
-# [[main]]
-# name = "Privacy Policy"
-# parent = "Resources"
-# url = "privacy-policy/"
-# weight = 4
+
 # [[main]]
 # name = "Learning Center"
 # parent = "Resources"
@@ -239,4 +230,10 @@ weight = 20
 [[main]]
 name = "Contact Us"
 url = "/contact/"
-weight = 60
+weight = 40
+
+[[main]]
+name = "Privacy"
+url = "privacy-policy/"
+weight = 50
+
