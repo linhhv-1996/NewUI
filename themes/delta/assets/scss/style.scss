@@ -217,7 +217,7 @@ header .container-delta {
     border-top-right-radius: 20px;
 }
 
-.formkit-header, .formkit-guarantee, .formkit-powered-by-convertkit-container {
+.formkit-form[data-uid="be0daf1330"] .formkit-header, .formkit-guarantee, .formkit-powered-by-convertkit-container {
     display: none !important;
 }
 
@@ -253,5 +253,19 @@ footer .footer-menu ul li:not(:last-child) {
 
 footer .footer-menu {
     margin-top: 30px;
+}
+
+.seva-form[data-uid="7489092b9a"] {
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 8px rgba(105, 113, 119, 0.1);
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+@media screen and (min-width: 600px) {
+    .formkit-form[data-uid="7489092b9a"] [data-style="full"] .formkit-background {
+        width: 50% !important;
+    }
 }
 

@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 
-
+{{if .Params.banner.enable}}
 <section class="banner banner-1 bg-primary-soft wave-block rounded-lg">
   {{with .Params.banner}}
   <div class="container container-delta pt-5 pb-5">
@@ -11,7 +11,6 @@
           <p class="subtitle" {{with .subtitle_color}}style="color:{{.}} !important"{{end}}>{{.subtitle | markdownify}}</p>
           <h1 class="title text-xl mb-3 banner-title" {{with .title_color}}style="color:{{.}} !important"{{end}}>{{.title | markdownify}}</h1>
           <p class="mb-4" {{with .description_color}}style="color:{{.}} !important"{{end}}>{{.description | markdownify}}</p>
-
           {{ with .join_waitlist }}
           {{ if .enable }}
           <button class="btn btn-primary m-1" type="button" data-bs-toggle="modal" data-bs-target="#waitListModal" >
@@ -39,7 +38,6 @@
     </div>
   </div>
   {{end}}
-
   {{with .lottie}}
   {{ if .enable}}
   <div class="banner-image text-center">
@@ -72,8 +70,10 @@
     </svg>
   </div>
 </section>
+{{ end }}
 
 
+{{ partial "coverkit-form.html" . }}
 
 {{ with .Params.banner.join_waitlist }}
 {{ if .enable }}

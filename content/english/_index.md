@@ -1,5 +1,6 @@
 ---
 banner:
+  enable: false
   subtitle: 
   subtitle_color: ""
   title: Harnessing Artificial Intelligence to Fortify Cyber Defenses
@@ -55,7 +56,7 @@ platforms:
     link: ""
 
 image_and_content_block:
-  enable: true
+  enable: false
   subtitle: We Are LinDane
   subtitle_color: ""
   # title: Lots of people love us, <br> and we're also.
