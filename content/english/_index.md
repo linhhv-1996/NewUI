@@ -30,7 +30,7 @@ banner:
 
 brands:
   enable: true
-  title: Next-Gen Cloud-Native Tech <br> for Fast Growing Brands & Enterprises. <br> Be the Captain.
+  title: Embrace intelligent AI solutions crafted to enhance <br>efficiency, productivity, and profitability.
   title_color: ""
   images:
   # - images/clients/01.png
