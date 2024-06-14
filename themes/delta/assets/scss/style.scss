@@ -276,6 +276,13 @@ footer .footer-menu {
     }
 }
 
+@media screen and (min-width: 600px) {
+    .formkit-form[data-uid="7489092b9a"] .formkit-column {
+        padding: 45px 60px 45px 45px !important;
+    }
+}
+
+
 .formkit-form[data-uid="7489092b9a"] .formkit-fields[data-stacked=false] .formkit-submit {
     display: flex;
     align-items: center;
@@ -286,3 +293,4 @@ footer .footer-menu {
     border-radius: 5px;
     font-size: 15px;
 }
+
