@@ -126,7 +126,7 @@ blog:
   button:
     enable: true
     link: blog/
-    label: Read All Blogs
+    label: Read All Posts
     icon: fas fa-arrow-right
 
 
