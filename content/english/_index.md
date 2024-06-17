@@ -119,9 +119,9 @@ blog:
   enable: true
   subtitle: Recent Articles
   subtitle_color: "#FF5100"
-  title: "Inside the Lab: Innovation in the Making"
+  title: "Stay Informed, Stay Ahead"
   title_color: "black"
-  description: We enjoy solving problems and making ideas happen. <br> Check out what we're working on!
+  description: Discover the latest insights and trends with our curated selection of recent articles <br>keeping you informed and inspired.
   description_color: ""
   button:
     enable: true
