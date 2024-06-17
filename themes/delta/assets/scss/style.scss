@@ -294,3 +294,9 @@ footer .footer-menu {
     font-size: 15px;
 }
 
+.blog-sidebar #TableOfContents::before {
+    opacity: 1 !important;
+    font-weight: 900 !important;
+    color: black !important;
+    font-family: "Catamaran", sans-serif;
+}
