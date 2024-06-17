@@ -29,6 +29,10 @@ weight = 6
 name = "Blogs"
 url = "/blog"
 weight = 2
+[[footer_menu_2]]
+name = "Tools"
+url = "/tool"
+weight = 3
 
 # [[footer_menu_2]]
 # name = "Mindmaps"

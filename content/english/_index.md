@@ -30,7 +30,8 @@ banner:
 
 brands:
   enable: false
-  title: Embrace intelligent AI solutions crafted to enhance <br>efficiency, productivity, and profitability.
+  # title: The best time to plant a tree was 20 years ago. <br>The second best time is now.
+  title: Do the best you can. <br> No one can do more than that.
   title_color: ""
   images:
   # - images/clients/01.png
