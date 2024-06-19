@@ -154,11 +154,11 @@ They make about $80,000 to $115,000 a year. Then a more senior level role would 
 So here are some companies that often hire for data related roles.
 This one is amazing.
 
-#### Google It Support Professional Certificate
+#### Google IT Support Professional Certificate
 
 {{< image src="images/blog/6-free-google-certifications-that-lead-to-high-paying-jobs-2024/6.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Next is going to be another one of my top three favorites, and that's the Google It Support Professional Certificate. This is the first one that came out when Google sort of partnered with Coursera, and it was massively popular. Millions and millions of people have taken it, and it has some amazing reviews.
+Next is going to be another one of my top three favorites, and that's the Google IT Support Professional Certificate. This is the first one that came out when Google sort of partnered with Coursera, and it was massively popular. Millions and millions of people have taken it, and it has some amazing reviews.
 
 So this is another one. It says 6 months at 10 hours a week. This one, I've heard people getting it done in like 7 to 10 days.
 
