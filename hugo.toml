@@ -7,7 +7,7 @@ timeZone = "America/New_York"
 timeout = 100
 paginate = 8
 summaryLength = 10
-googleAnalytics = ""
+googleAnalytics = "G-7NN0TTX729"
 
 disableLanguages = [
   "fr",
