@@ -1,5 +1,5 @@
 ---
-date: 2024-06-19
+date: 2024-06-20
 title: Affiliate Marketing in 2024 - A Blueprint for Beginners
 description: My first breakthrough came when I chose a niche in which I was passionate about eco-friendly products.
 image: images/blog/affiliate-marketing-blueprint/1.webp
