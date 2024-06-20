@@ -296,8 +296,8 @@ footer .footer-menu {
 
 .blog-sidebar #TableOfContents::before {
     opacity: 1 !important;
-    font-weight: 900 !important;
-    color: black !important;
+    font-weight: 700 !important;
+    color: #6d6d6d !important;
     font-family: "Catamaran", sans-serif;
 }
 
@@ -328,3 +328,10 @@ footer .footer-menu {
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
 }
+
+blockquote {
+    border-left: 3px solid #f0692a;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
