@@ -4,6 +4,7 @@ baseURL = "https://lindane.co/"
 title = "lindane.co"
 theme = "delta"
 timeZone = "America/New_York"
+timeout = 100
 paginate = 8
 summaryLength = 10
 googleAnalytics = ""
