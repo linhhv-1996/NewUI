@@ -91,7 +91,7 @@ This is just for tech founders who know how to code.
 
 Our party is saving developers tons of hours in building and that's great.
 
-Mark has managed to get his startups running in days and that is great because the fast we get to our customers, the faster we'll get our first sales.
+Marc has managed to get his startups running in days and that is great because the fast we get to our customers, the faster we'll get our first sales.
 
 #### How He Gets Free Visitors
 
@@ -165,11 +165,11 @@ I think we're all just getting fed up with subscriptions. So here we can see how
 
 I'm paying like $50 a month for holder to manage my accounting.
 
-I would love to pay one shot pricing. Maybe I have to copy this strategy from my friend Mark. 
+I would love to pay one shot pricing. Maybe I have to copy this strategy from my friend Marc. 
 
 #### The Truth He's Not Telling
 
-Nothing against Mark, he's become one of my top inspirations.
+Nothing against Marc, he's become one of my top inspirations.
 
 I just want to share what I'm reading between the lines, but it's just my personal opinion. So everything he's doing is centered around software. 
 
