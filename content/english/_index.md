@@ -122,7 +122,7 @@ blog:
   subtitle_color: "#FF5100"
   title: "Stay Informed, Stay Ahead"
   title_color: "black"
-  description: Discover the latest insights and trends with our curated selection of recent articles <br>keeping you informed and inspired.
+  description: Discover the latest insights and trends with my curated selection of recent articles, keeping you informed and inspired.
   description_color: ""
   button:
     enable: true
