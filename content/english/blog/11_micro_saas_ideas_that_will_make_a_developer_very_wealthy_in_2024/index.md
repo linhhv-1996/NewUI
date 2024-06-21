@@ -30,8 +30,6 @@ draft: false
 
 {{< image src="images/blog/10_micro_saa_s_ideas_that_will_make_a_developer_very_wealthy_in_2024/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Let's go over 10microsass ideas you can start this weekend. 
-
 Micro software as a service businesses are great ones to run. 
 
 They have high profit margins, recurring revenue, and they can even be run by just a solo founder.
@@ -40,7 +38,7 @@ But to build a microsass, you're going to first need a good idea.
 
 **If you want to build your app in days, not months, try [ShipFast](https://shipfa.st/?via=lindane)**
 
-Let’s start!!!
+Let's go over 11 microsass ideas you can start this weekend. 
 
 #### Idea 1: Personal Finance Goal Tracker
 
