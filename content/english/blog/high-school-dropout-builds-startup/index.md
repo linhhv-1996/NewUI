@@ -29,7 +29,7 @@ draft: false
 
 {{< image src="images/blog/high-school-dropout-builds-startup/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Today's story is about **Samir Vasavada**, who operates [Vise](https://vise.com/). Despite dropping out of high school, Samir has achieved what many can only dream of: building a startup worth a staggering $1 billion.
+Today\'s story is about **Samir Vasavada**, who operates [Vise](https://vise.com/). Despite dropping out of high school, Samir has achieved what many can only dream of: building a startup worth a staggering $1 billion.
 In an era where academic credentials and traditional paths to success are often touted as the only way to achieve greatness, Vasavada's story is a refreshing reminder that there's no one-size-fits-all formula for success. His journey is a testament to the power of innovation, perseverance, and a relentless passion for solving real-world problems.
 
 So, how did a high school dropout go on to build a billion-dollar startup in just a few short years? What drove him to take the road less traveled, and what lessons can we learn from his remarkable journey? 

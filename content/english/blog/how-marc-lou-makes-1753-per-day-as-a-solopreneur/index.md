@@ -29,9 +29,9 @@ draft: false
 
 {{< image src="images/blog/how-marc-lou-makes-1753-per-day-as-a-solopreneur/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-In this article, I'll summarize  how Marc Lou is making $1,500 a day.
+In this article, I\'ll summarize  how Marc Lou is making $1,500 a day.
 
-After spending hours in his YouTube channel, Twitter account, business websites, newsletter and interviews, everything I've seen from how he gets killer ideas, how he builds startups and days, how he gets free visitors, how he actually makes his money, and the truth he's not telling us. Massive admiration for this guy. 
+After spending hours in his YouTube channel, Twitter account, business websites, newsletter and interviews, everything I\'ve seen from how he gets killer ideas, how he builds startups and days, how he gets free visitors, how he actually makes his money, and the truth he's not telling us. Massive admiration for this guy. 
 
 So let's get into it.
 

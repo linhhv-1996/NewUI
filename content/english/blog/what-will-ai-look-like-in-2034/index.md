@@ -31,7 +31,7 @@ draft: false
 {{< image src="images/blog/what-will-ai-look-like-in-2034/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
 
-While it's hard to predict exactly what the world will look like in 10  years, one thing is AI will play a major role. In this article, we'll explore some of the most exciting possibilities for AI over the next decade, from autonomous vehicles to virtual assistants.
+While it\'s hard to predict exactly what the world will look like in 10  years, one thing is AI will play a major role. In this article, we\'ll explore some of the most exciting possibilities for AI over the next decade, from autonomous vehicles to virtual assistants.
 
 > There will come a point where no job is needed.
 
