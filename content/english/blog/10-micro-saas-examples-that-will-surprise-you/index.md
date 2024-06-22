@@ -1,7 +1,7 @@
 ---
 date: 2024-06-20
 title: 10 Micro SaaS Examples That Will Surprise You
-description: I\'ll be going over 10 different micro SaaS examples. You're looking for inspiration, you want to see the competition that's out there, but it's hard to find these microsass products.
+description: I will be going over 10 different micro SaaS examples. You're looking for inspiration, you want to see the competition that's out there, but it's hard to find these microsass products.
 image: images/blog/10-micro-saas-examples-that-will-surprise-you/1.webp
 
 cover_image: false

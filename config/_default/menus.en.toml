@@ -181,6 +181,11 @@ weight = 1
 # post = "<small>Convert leads and close sales deals faster.</small>"
 
 [[main]]
+name = "Showcase"
+url = "showcase/"
+weight = 25
+
+[[main]]
 name = "Blogs"
 url = "blog/"
 weight = 20
