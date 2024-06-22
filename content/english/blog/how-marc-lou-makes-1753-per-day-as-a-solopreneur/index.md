@@ -67,7 +67,7 @@ So you can imagine how this is a no brainer for anyone suffering this pain. Anyw
 
 This solution is like stacking together all the tools he uses to launch new startups. 
 
-**Get ShipFast: https://shipfa.st/?via=lindane**
+**Try ShipFast: [https://shipfa.st/](https://shipfa.st/?via=lindane)**
 
 I do understand the huge problem he's solving, which is starting businesses in days instead of months. Again, one of the pains he suffered himself, he used to take months to ship products. He learned how to build super fast, and he packed this for others to benefit from his methods.
 
@@ -157,7 +157,7 @@ Like Bezos would say in your margin is my opportunity. I'd love to see how this 
 
 He was selling one of his products, [MakeLanding](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9) for $39. Pay once, access forever. And then he tried $5 per month subscription and his sales just plumped.
 
-**Get MakeLanding: https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9**
+**Get MakeLanding: [https://makelanding.ai](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9)**
 
 I think we're all just getting fed up with subscriptions. So here we can see how competition is actually great for the consumer, bringing us better products and better prices.
 
@@ -195,7 +195,7 @@ Hope he keeps on killing it and bringing tons of value to us.
 
 Let me know in the comments if you have any questions.
 
-Get ShipFast: https://shipfa.st/?via=lindane
+Try ShipFast: [https://shipfa.st/](https://shipfa.st/?via=lindane)
 
-Get MakeLanding: https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9
+Try MakeLanding: [https://makelanding.ai/](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9)
 
