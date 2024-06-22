@@ -332,7 +332,11 @@ footer .footer-menu {
 blockquote {
     border-left: 3px solid #f0692a;
     padding-left: 10px;
-    font-size: 17px;
+    font-size: 16px;
+}
+
+blockquote p{
+    color: #414141 !important;
 }
 
 .cta {
