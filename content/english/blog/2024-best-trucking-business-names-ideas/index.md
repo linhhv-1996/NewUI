@@ -1,5 +1,5 @@
 ---
-date: 2024-06-22
+date: 2024-06-18
 title: Best Trucking Business Names - 100 Unique Company Name Ideas to Drive Your Brand Forward
 description: Best Trucking Business Names - 100 Unique Company Name Ideas to Drive Your Brand Forward.
 image: images/blog/2024-best-trucking-business-names-ideas/1.webp
