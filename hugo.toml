@@ -15,6 +15,7 @@ disableLanguages = [
 
 hasCJKLanguage = false
 enableGitInfo = false
+enableRobotsTXT = true
 
 ############################# Outputs ############################
 [outputs]
