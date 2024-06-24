@@ -83,7 +83,7 @@ url = "/blog/"
 weight = 2
 
 [[footer_menu_4]]
-name = "Contact us"
+name = "Contact"
 url = "/contact/"
 weight = 3
 
@@ -254,12 +254,14 @@ weight = 20
 # weight = 2
 
 [[main]]
-name = "Contact Us"
-url = "/contact/"
+name = "About"
+url = "/about/"
 weight = 40
 
 [[main]]
-name = "Privacy"
-url = "privacy-policy/"
+name = "Contact"
+url = "/contact/"
 weight = 50
+
+
 
