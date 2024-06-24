@@ -9,10 +9,11 @@ bannertext_color: ""
 bannerimage: images/banner/contactpage/contactpage-banner-image.svg
 enable: true
 ---
+#### Privacy
 
 This privacy policy is compiled by Lindane.co, hereinafter referred to as Lindane.co to better serve those who are concerned with how we treat their Personally Identifiable Information (PII). PII, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to understand how we collect, use, protect or otherwise handle your PII that is collected through our website, newsletters, blogs, forms, surveys, or other similar content.
 
-###### Personal Information that we may collect, process, and use
+##### Personal Information that we may collect, process, and use
 
 ###### What personal information do we collect from the people that visit our blog or website?
 When registering on our site, as appropriate, you may be asked to enter your name, email address or other information to help us improve your experience.

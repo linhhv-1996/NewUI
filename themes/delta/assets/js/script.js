@@ -346,31 +346,31 @@ $(document).ready(function () {
     });
 
   //post carousel
-  new Swiper(".post-carousel.swiper-container", {
-    speed: 400,
-    slidesPerView: 1,
-    autoplay: true,
-    loop: true,
-    pagination: {
-      el: ".swiper-pagination",
-      type: "bullets",
-      clickable: true,
-    },
-  });
+  // new Swiper(".post-carousel.swiper-container", {
+  //   speed: 400,
+  //   slidesPerView: 1,
+  //   autoplay: true,
+  //   loop: true,
+  //   pagination: {
+  //     el: ".swiper-pagination",
+  //     type: "bullets",
+  //     clickable: true,
+  //   },
+  // });
 
   //testiminials carousel
-  new Swiper(".testimonials-carousel.swiper-container", {
-    speed: 400,
-    loop: true,
-    grabCursor: true,
-    autoHeight: true,
-    autoplay: true,
-    pagination: {
-      el: ".swiper-pagination",
-      type: "bullets",
-      clickable: true,
-    },
-  });
+  // new Swiper(".testimonials-carousel.swiper-container", {
+  //   speed: 400,
+  //   loop: true,
+  //   grabCursor: true,
+  //   autoHeight: true,
+  //   autoplay: true,
+  //   pagination: {
+  //     el: ".swiper-pagination",
+  //     type: "bullets",
+  //     clickable: true,
+  //   },
+  // });
 
   var processItem = $(".process-item");
   processItem.each(function () {

@@ -79,8 +79,10 @@ link = "plugins/font-awesome/brands.css"
 link = "plugins/font-awesome/solid.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/regular.css"
-[[params.plugins.css]]
-link = "plugins/swiper/swiper-bundle.min.css"
+
+# [[params.plugins.css]]
+# link = "plugins/swiper/swiper-bundle.min.css"
+
 [[params.plugins.css]]
 link = "plugins/tab/tab.css"
 [[params.plugins.css]]
@@ -90,8 +92,10 @@ link = "plugins/search/auto-complete.css"
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/swiper/swiper-bundle.min.js"
+
+# [[params.plugins.js]]
+# link = "plugins/swiper/swiper-bundle.min.js"
+
 [[params.plugins.js]]
 link = "plugins/webfont-loader/webfont-loader-2.min.js"
 [[params.plugins.js]]
@@ -116,6 +120,7 @@ link = "plugins/anime/anime.min.js"
 link = "plugins/anime/scrollreveal.min.js"
 [[params.plugins.js]]
 link = "plugins/search/search-page.js"
+
 # [[params.plugins.js]]
 # link = "https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@2.0.3/dist/lottie-player.js"
 

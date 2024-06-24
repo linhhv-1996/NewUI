@@ -15,9 +15,9 @@ mainSections = ["blog"]
 google_tag_manager = ""
 google_adsense = ""
 
-mobile = "+211234565523"
-email = "info@email.com"
-description = "Next-Gen Ai based solution to democratize cloud native, software supply chain security, quality engineering, Kubernetes and security using Kernel technology like eBPF and Machine Learning. Empower Engineers to easily adopt concepts like cloud-native, webassembly, chaos engineering, detection engineering, security chaos engineering, gitops, self service, platform engineering, etc. Imagination is your limit!"
+mobile = ""
+email = "linhhv.work@gmail.com"
+description = "Discover expert insights on business strategies, SaaS solutions, and mobile app monetization. Boost your digital ventures with actionable tips, industry trends, and proven tactics for success in today's competitive market."
 
 
 fullSiteSearch = true
@@ -30,10 +30,10 @@ contact_form_action = "#!"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Intelops", "Cloud-Native", "Ai", "DevOps", "SRE", "Kubernetes", "Talent", "Democratize", "Next-Gen"]
-description = "Democratizing Cloud Native. Making Imagination a Reality."
-author = "Intelops"
-image = "images/og-image.jpg"
+keywords = ["Business", "Marketing", "SEO", "SaaS", "Android", "Ios", "Monetization", "Technology", "Review", "Cloud-Native", "Ai", "DevOps", "Kubernetes", "Talent", "Book"]
+description = "Discover expert insights on business strategies, SaaS solutions, and mobile app monetization. Boost your digital ventures with actionable tips, industry trends, and proven tactics for success in today's competitive market."
+author = "LinDane"
+image = "images/og-image.png"
 
 
 # Footer Configuration
