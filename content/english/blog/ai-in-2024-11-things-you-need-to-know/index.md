@@ -1,7 +1,7 @@
 ---
 date: 2024-06-24
 title: AI In 2024 - 11 Things You Need To Know But They're Not Saying
-description: Ilya Sutskever was not only a co founder, but he was the mad scientist who, along with Jeffrey Hinton, helped invent the Alexnet convolutional neural network.
+description: What if I told you that what you're seeing and reading in the latest AI news is just the bright tip of the hidden iceberg?
 image: images/blog/ai-in-2024-11-things-you-need-to-know/1.webp
 
 cover_image: false
