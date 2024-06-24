@@ -116,8 +116,8 @@ link = "plugins/anime/anime.min.js"
 link = "plugins/anime/scrollreveal.min.js"
 [[params.plugins.js]]
 link = "plugins/search/search-page.js"
-[[params.plugins.js]]
-link = "https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@2.0.3/dist/lottie-player.js"
+# [[params.plugins.js]]
+# link = "https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@2.0.3/dist/lottie-player.js"
 
 ########################### Variables ##########################
 [params.variables]
