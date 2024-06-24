@@ -45,7 +45,7 @@ Cookies placed on your computer can be deleted by you at any time by clearing yo
 - If we have received consent for processing your personal data, you have the right to withdraw your consent at any time and exercise your right to be forgotten.
 - You have the right to lodge a complaint with the supervisory authority or your specific country or geographic territory
 
-Any rights you wish to exercise can be achieved by sending an e-mail to linhhv.work@gmail.com.
+Any rights you wish to exercise can be achieved by sending an e-mail to <a style="color:#f06f33;" href="mailto:linhhv.work@gmail.com">us</a>.
 
 ##### Our ‘Cookies’ policy
 
@@ -77,7 +77,7 @@ We, along with third-party vendors such as Google use third-party cookies (such 
 In compliance with Privacy Protection statutes, such as CalOPPA (California Online Privacy Protection Act), and the provisions of the EU-U.S. Privacy Shield Framework, we agree to the following:
 
 - Users can visit our site anonymously.
-- The privacy policy can be accessed on our website through https://lindane.co/privacy-policy/
+- The privacy policy can be accessed on our website through <a style="color:#f06f33;" href="/privacy-policy">link</a>
 - Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 - Any changes to the Privacy Policy will be displayed on the above cited page.
 - You can change your personal information, by emailing us.
