@@ -19,7 +19,7 @@ categories:
 - Etsy
 
 tags:
-- app modernization
+- app monetization
 - saas idea
 - backend automation
 - saas startup
