@@ -78,9 +78,18 @@ weight = 4
 # url = "/about/"
 # weight = 1
 [[footer_menu_4]]
-name = "Book a Demo"
-url = "/contact/"
+name = "Blog"
+url = "/blog/"
 weight = 2
+[[footer_menu_4]]
+name = "Contact us"
+url = "/contact/"
+weight = 3
+[[footer_menu_4]]
+name = "Privacy policy"
+url = "/privacy-policy/"
+weight = 4
+
 # [[footer_menu_4]]
 # name = "Login"
 # url = "https://capten.cloud/"
