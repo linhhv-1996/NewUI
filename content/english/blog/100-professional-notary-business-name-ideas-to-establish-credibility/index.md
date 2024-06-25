@@ -15,13 +15,13 @@ categories:
 - Business
 - Startup
 - Notary
-- Name Ideas
+- Ideas
 
 tags:
 - Business
 - Startup
 - Notary
-- Name Ideas
+- Ideas
 
 # image color code in undraw.co #FB7E44 
 feedback: false

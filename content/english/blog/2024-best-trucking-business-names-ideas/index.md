@@ -14,15 +14,15 @@ series:
 categories:
 - Business
 - Startup
-- Trucking Company
-- Name Ideas
+- Trucking
+- Ideas
 
 tags:
 - Business
 - Startup
 - Flower
-- Name Ideas
-- Trucking Company
+- Ideas
+- Trucking
 
 # image color code in undraw.co #FB7E44 
 feedback: false
