@@ -17,7 +17,7 @@ google_adsense = ""
 
 mobile = ""
 email = "linhhv.work@gmail.com"
-description = "Discover expert insights on business strategies, SaaS solutions, and mobile app monetization. Boost your digital ventures with actionable tips, industry trends, and proven tactics for success in today's competitive market."
+description = ""
 
 
 fullSiteSearch = true
@@ -31,7 +31,7 @@ contact_form_action = "#!"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Business", "Marketing", "SEO", "SaaS", "Android", "Ios", "Monetization", "Technology", "Review", "Cloud-Native", "Ai", "DevOps", "Kubernetes", "Talent", "Book"]
-description = "Discover expert insights on business strategies, SaaS solutions, and mobile app monetization. Boost your digital ventures with actionable tips, industry trends, and proven tactics for success in today's competitive market."
+description = "SaaS strategies, marketing insights, and expert knowledge. Boost your business with actionable tips and industry trends. Join our community of innovators."
 author = "LinDane"
 image = "images/og-image.png"
 
