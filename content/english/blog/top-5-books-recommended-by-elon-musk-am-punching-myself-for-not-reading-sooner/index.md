@@ -12,7 +12,6 @@ cover_image_width: ""
 author: chandrakanth-paladugu
 series: 
 categories:
-- Elon Musk
 - Book
 - Review
 tags:
