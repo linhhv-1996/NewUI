@@ -33,7 +33,7 @@ If you want to drive revenue for your app, it's essential your users are engaged
 
 How can you increase app engagement and keep those valuable users well? 
 
-#### 2 Key Elements
+#### Two Key Elements
 
 There are two essential elements, creating a **seamless onboarding** experience and leveraging **owned media** tactics.
 
