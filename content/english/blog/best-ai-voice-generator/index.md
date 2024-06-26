@@ -12,16 +12,12 @@ cover_image_width: ""
 author: chandrakanth-paladugu
 series: 
 categories:
-- Saas
+- SaaS
 - AI
 - Startup
+- Software
 
 tags:
-- app monetization
-- saas idea
-- backend automation
-- saas startup
-- voice generator
 
 # image color code in undraw.co #FB7E44 
 feedback: false

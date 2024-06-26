@@ -15,12 +15,9 @@ categories:
 - AI
 - Business
 - Startup
-- Future
+- SaaS
 
 tags:
-- ai
-- business
-- startup
 
 # image color code in undraw.co #FB7E44 
 feedback: false

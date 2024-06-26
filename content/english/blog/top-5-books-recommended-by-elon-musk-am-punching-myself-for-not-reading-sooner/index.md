@@ -12,13 +12,10 @@ cover_image_width: ""
 author: chandrakanth-paladugu
 series: 
 categories:
-- Elon Mush
+- Elon Musk
 - Book
 - Review
 tags:
-- Book Review
-- Elon Mush
-- Self Improvement
 
 # image color code in undraw.co #FB7E44 
 feedback: false

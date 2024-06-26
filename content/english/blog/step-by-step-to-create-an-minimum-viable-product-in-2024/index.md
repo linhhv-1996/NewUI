@@ -18,11 +18,6 @@ categories:
 - SaaS
 
 tags:
-- ai
-- saas
-- startup
-- business
-- mvp
 
 # image color code in undraw.co #FB7E44 
 feedback: false

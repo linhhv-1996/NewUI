@@ -12,16 +12,12 @@ cover_image_width: ""
 author: chandrakanth-paladugu
 series: 
 categories:
-- Saas
+- SaaS
 - AI
 - Business
 - Startup
 
 tags:
-- app monetization
-- saas idea
-- backend automation
-- saas startup
 
 # image color code in undraw.co #FB7E44 
 feedback: false

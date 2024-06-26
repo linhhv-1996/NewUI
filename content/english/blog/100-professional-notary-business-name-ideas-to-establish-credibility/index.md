@@ -14,14 +14,9 @@ series:
 categories:
 - Business
 - Startup
-- Notary
 - Ideas
 
 tags:
-- Business
-- Startup
-- Notary
-- Ideas
 
 # image color code in undraw.co #FB7E44 
 feedback: false

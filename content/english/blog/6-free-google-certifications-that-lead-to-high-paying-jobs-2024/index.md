@@ -21,11 +21,6 @@ categories:
 - UX
 
 tags:
-- google
-- coursera
-- pmp
-- ui-ux designer
-- security
 
 # image color code in undraw.co #FB7E44 
 feedback: false

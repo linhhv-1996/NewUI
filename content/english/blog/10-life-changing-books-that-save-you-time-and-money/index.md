@@ -15,8 +15,6 @@ categories:
 - Book
 - Review
 tags:
-- Book Review
-- Self Improvement
 
 # image color code in undraw.co #FB7E44 
 feedback: false

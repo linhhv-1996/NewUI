@@ -15,13 +15,8 @@ categories:
 - AI
 - Business
 - Startup
-- Future
 
 tags:
-- ai
-- 2034
-- future
-- world 2034
 
 # image color code in undraw.co #FB7E44 
 feedback: false

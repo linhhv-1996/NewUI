@@ -17,9 +17,6 @@ categories:
 - Startup
 
 tags:
-- OpenAi
-- ai
-- saas
 
 # image color code in undraw.co #FB7E44 
 feedback: false

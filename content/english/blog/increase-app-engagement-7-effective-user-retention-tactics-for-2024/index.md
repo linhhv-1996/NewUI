@@ -17,9 +17,6 @@ categories:
 - Monetization
 
 tags:
-- Startup
-- App
-- Monetization
 
 # image color code in undraw.co #FB7E44 
 feedback: false

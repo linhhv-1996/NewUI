@@ -18,10 +18,6 @@ categories:
 - Mobile
 
 tags:
-- Business
-- Startup
-- Monetization
-- Mobile
 
 # image color code in undraw.co #FB7E44 
 feedback: false

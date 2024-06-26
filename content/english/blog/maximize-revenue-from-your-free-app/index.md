@@ -18,10 +18,6 @@ categories:
 - Monetization
 
 tags:
-- ai
-- saas
-- mobile
-- monetization
 
 # image color code in undraw.co #FB7E44 
 feedback: false

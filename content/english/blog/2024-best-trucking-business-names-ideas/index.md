@@ -14,15 +14,9 @@ series:
 categories:
 - Business
 - Startup
-- Trucking
 - Ideas
 
 tags:
-- Business
-- Startup
-- Flower
-- Ideas
-- Trucking
 
 # image color code in undraw.co #FB7E44 
 feedback: false

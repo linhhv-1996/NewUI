@@ -18,10 +18,6 @@ categories:
 - SaaS
 
 tags:
-- Business
-- Startup
-- MicroSaaS
-- SaaS
 
 # image color code in undraw.co #FB7E44 
 feedback: false

@@ -20,12 +20,6 @@ categories:
 - Marketing
 
 tags:
-- ai
-- saas
-- startup
-- business
-- marketing
-- affiliate
 
 # image color code in undraw.co #FB7E44 
 feedback: false

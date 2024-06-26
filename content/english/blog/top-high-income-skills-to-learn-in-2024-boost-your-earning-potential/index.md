@@ -19,11 +19,6 @@ categories:
 - Skills
 
 tags:
-- ai
-- saas
-- startup
-- business
-- skills
 
 # image color code in undraw.co #FB7E44 
 feedback: false

@@ -14,14 +14,9 @@ series:
 categories:
 - Business
 - Startup
-- Flower
 - Ideas
 
 tags:
-- Business
-- Startup
-- Flower
-- Ideas
 
 # image color code in undraw.co #FB7E44 
 feedback: false

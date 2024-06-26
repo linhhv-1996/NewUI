@@ -18,10 +18,6 @@ categories:
 - Ideas
 
 tags:
-- Business
-- Startup
-- Beauty
-- Ideas
 
 # image color code in undraw.co #FB7E44 
 feedback: false
