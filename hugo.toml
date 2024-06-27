@@ -3,7 +3,7 @@
 baseURL = "https://lindane.co/"
 title = "lindane.co"
 theme = "delta"
-timeZone = "America/New_York"
+timeZone = "Asia/Ho_Chi_Minh"
 timeout = 100
 paginate = 8
 summaryLength = 10
