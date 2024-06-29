@@ -12,10 +12,8 @@ cover_image_width: ""
 author: chandrakanth-paladugu
 series: 
 categories:
-- SaaS
 - AI
 - Startup
-- Software
 
 tags:
 
