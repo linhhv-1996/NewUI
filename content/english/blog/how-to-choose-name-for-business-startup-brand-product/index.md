@@ -115,7 +115,7 @@ As I said, start with a brand name, and I try to get the best name and then reve
 
 I had some negotiating leverage. In addition, especially if you're in the SaaS space, different top level domains can work. Code, AI IO, evenly, not as much anymore.
 
-But these are all acceptable, right? Think of customer IO that has built a deca million dollar ARR SaaS customer IO. Think of close IO. I think they actually bought *the.com*
+But these are all acceptable, right? Think of customer IO that has built a deca million dollar ARR SaaS customer IO. Think of close IO. I think they actually bought ***the.com***
 
 Now, but I still call them close IO. One of the final things I'll wrap with is don't use two or more of these suffix workaround things. So, like get ***bumpcrm.code***, it's hot garbage, right? If you could get ***bump.co*** versus ***bumpcrm.com*** and you could get either one for a decent price, I'd consider it like bump co, bump AI, bump IO. These are not bad domain names.
 
