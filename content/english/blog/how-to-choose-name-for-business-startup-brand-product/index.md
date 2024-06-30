@@ -57,7 +57,7 @@ And so as you're looking for a name, usually it's a process of elimination, righ
 
 So now I'm going to dive into 5 mistakes that you should avoid when coming up with a name.
 
-##### Mistake 1: Lacks clarity. 
+##### Mistake 1: Lacks clarity
 
 There's something called the crowded bar test, which is if you're in a crowded bar, probably noisy, probably distracting, and a friend were to tell you the name of a product or company, can you hear it, understand it, and remember it? 
 
@@ -115,9 +115,9 @@ As I said, start with a brand name, and I try to get the best name and then reve
 
 I had some negotiating leverage. In addition, especially if you're in the SaaS space, different top level domains can work. Code, AI IO, evenly, not as much anymore.
 
-But these are all acceptable, right? Think of customer IO that has built a deca million dollar ARR SaaS customer IO. Think of close IO. I think they actually bought ***the.com***
+But these are all acceptable, right? Think of customer IO that has built a deca million dollar ARR SaaS customer IO. Think of close IO. I think they actually bought ***the.com***, but I still call them close IO. 
 
-Now, but I still call them close IO. One of the final things I'll wrap with is don't use two or more of these suffix workaround things. So, like get ***bumpcrm.code***, it's hot garbage, right? If you could get ***bump.co*** versus ***bumpcrm.com*** and you could get either one for a decent price, I'd consider it like bump co, bump AI, bump IO. These are not bad domain names.
+One of the final things I'll wrap with is don't use two or more of these suffix workaround things. So, like get ***bumpcrm.code***, it's hot garbage, right? If you could get ***bump.co*** versus ***bumpcrm.com*** and you could get either one for a decent price, I'd consider it like bump co, bump AI, bump IO. These are not bad domain names.
 
 
 #### Essential Tools for Building Your SaaS Product
