@@ -32,7 +32,7 @@ After spending hours in his YouTube channel, Twitter account, business websites,
 
 So let's get into it.
 
-For those who are new, my name is Lin Dane, an indie hacker. My 3 Google Play apps bring in $8K in MRR. Currently, I'm building a Micro SaaS for Mobile App Tracking via a Telegram bot.
+For those who are new, my name is Lin Dane, an indie hacker. My 3 Google Play apps bring in $8K in MRR. Currently, I'm building a Micro SaaS for App Tracking via a Telegram bot.
 
 You can join my newsletter down below if you want to be part of the journey. 
 
