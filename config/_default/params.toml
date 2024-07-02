@@ -122,3 +122,7 @@ title = "Linkedin"
 icon = "fab fa-telegram"
 link = "#"
 title = "Telegram"
+[[social]]
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/@lindanehere"
+title = "Youtube"
