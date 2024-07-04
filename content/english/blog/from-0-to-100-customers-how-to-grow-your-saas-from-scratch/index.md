@@ -48,7 +48,7 @@ So there you have it. There's your first ten customers.
 #### How We Go From 10 Customers Up To 50?
 Let's continue to leverage those first 20 beta users that you had. I suggest you create a referral program.
 
-You can use online tools like [Rewardful](https://www.rewardful.com/?via=lindane) or [Tapfiliate](https://fas.st/t/RnY2zRFT), all-in-one affiliate management software for SaaS, and they'll give you an affiliate link for each of your 20 beta users. 
+You can use online tools like [Rewardful](https://www.rewardful.com/?via=lindane), [Tapfiliate](https://fas.st/t/RnY2zRFT) or [Tolt](https://tolt.io/?aff=lindane), all-in-one affiliate management software for SaaS, and they'll give you an affiliate link for each of your 20 beta users. 
 
 And you can say to your beta users, if you share this among your friends, colleagues, partners and get them to sign up to our platform, you'll earn cash in return. So if you pick the right 20 beta users that have a great network, this referral scheme can really blow up and you can really grow your user base like this.
 
