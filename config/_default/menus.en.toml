@@ -28,11 +28,15 @@ weight = 6
 [[footer_menu_2]]
 name = "Blogs"
 url = "/blog"
-weight = 2
+weight = 1
 [[footer_menu_2]]
-name = "Tools"
-url = "/tool"
-weight = 3
+name = "Show case"
+url = "/showcase"
+weight = 2
+# [[footer_menu_2]]
+# name = "Tools"
+# url = "/tool"
+# weight = 3
 
 # [[footer_menu_2]]
 # name = "Mindmaps"
@@ -57,13 +61,18 @@ weight = 3
 # url = "/certified-partner-program/"
 # weight = 2
 [[footer_menu_3]]
+name = "About Us"
+url = "/about/"
+weight = 1
+
+[[footer_menu_3]]
 name = "Contact Us"
 url = "/contact/"
-weight = 3
-[[footer_menu_3]]
-name = "Privacy Policy"
-url = "#!"
-weight = 4
+weight = 1
+# [[footer_menu_3]]
+# name = "Privacy Policy"
+# url = "#!"
+# weight = 4
 # [[footer_menu_3]]
 # name = "Terms & Conditions"
 # url = "/licensing-terms-conditions/2-terms-and-conditions"
@@ -77,25 +86,17 @@ weight = 4
 # name = "About Us"
 # url = "/about/"
 # weight = 1
-[[footer_menu_4]]
-name = "Blog"
-url = "/blog/"
-weight = 2
-
-[[footer_menu_4]]
-name = "Contact"
-url = "/contact/"
-weight = 3
-
-[[footer_menu_4]]
-name = "Disclaimer"
-url = "/disclaimer/"
-weight = 4
 
 [[footer_menu_4]]
 name = "Privacy policy"
 url = "/privacy-policy/"
-weight = 5
+weight = 1
+
+
+[[footer_menu_5]]
+name = "Disclaimer"
+url = "/disclaimer/"
+weight = 1
 
 
 # [[footer_menu_4]]
