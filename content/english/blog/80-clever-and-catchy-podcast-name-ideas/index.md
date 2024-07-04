@@ -35,7 +35,7 @@ Let's dive in and find the perfect moniker for your audio masterpiece!
 *If you’re looking to build a Podcast business, try there platforms:*
 - [Castos](https://castos.com/?via=linhdane): The podcast hosting platform for growing brands.
 - [RiverSide](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=lindane): Studio-quality recordings. Lightning-fast editing.
-- [Podcastle](https://podcastle.ai/): All-in-One Podcast Software.
+- [Podcastle](https://podcastle.ai/?ref=nwvmztm): All-in-One Podcast Software.
 
 #### Technology & Innovation
 Explores cutting-edge advancements, emerging trends, and the impact of technology on our daily lives and future.
