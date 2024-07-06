@@ -119,9 +119,9 @@ icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/hoang-van-linh-173362256/"
 title = "Linkedin"
 [[social]]
-icon = "fab fa-telegram"
-link = "#"
-title = "Telegram"
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/profile.php?id=61562039192202"
+title = "Facebook"
 [[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/@lindanehere"
