@@ -48,14 +48,14 @@ So it feels like there's a lot of market pull here for someone to create a great
 #### Idea 3: Architecture plans, review and commenting tool
 Idea number three is an architecture plans, review and commenting tool.
 
-You might think of this like [frame.io](http://frame.io) for architectural drawings. We found this one on Reddit and we'll link it up in the description. The Op writes:
+You might think of this like [frame.io](http://frame.io) for architectural drawings. We found this one on Reddit and we'll link it up in the description. The poster writes:
 
 > My firm has expressed interest in making the switch to digital for all of our in house drawing reviews. This is for check prints, squad checks, shop drawing reviews, et cetera. We're a pretty small firm of mostly contractors. I'm one of five engineers, so I was looking for alternatives in place of the larger enterprise software suite. [Bluebeam](https://www.bluebeam.com/) seems to be the most common, but I think that may be a bit excessive for our needs. I imagine most of us would just use normal pen and highlighting tools, with the occasional text box here and there. We currently use Nero for our PDF needs, but the review tools are terrible. Edge has a nice pen tool, but the highlighter is only for embedded text
 
 And the op asks what do you use?  He's asking in an architecture group and then they wrap up with while working from home last year, most of us just use Nitro, Adobe with a mouse, but that was hell. There are obviously other tools on the market that can kind of do this, but if you read this post, there isn't a great solution for this. And Bluebeam, the alternative that they mentioned starts at $240 a seat. So if I were to build this, I'd be thinking about can I build a streamlined tool that does this and exactly this? To where perhaps I could undercut one of these bigger players. 
 
 #### Idea 4: In person event venue setup planner
-Idea number four is from [nugget.one](http://nugget.one). Thanks to founder Justin Vincent for letting me use one of his ideas in this article. This idea is an in person event venue setup planner. The op writes:
+Idea number four is from [nugget.one](http://nugget.one). Thanks to founder Justin Vincent for letting me use one of his ideas in this article. This idea is an in person event venue setup planner. The poster writes:
 
 > I am a stagehand at a rental performance venue. On an almost daily basis we have to communicate with rental customers who describe in writing or on the phone the setup they desire for the stage and the venue upon their arrival. Many times what they ask for isn't sufficient for their actual needs, or they were picturing something different in their heads, or we were picturing something different based on our knowledge and our equipment. I would like an app that can be front loaded by us with the amount, types and capacities of equipment available to rent everything from sound shells to a dance floor to the number of chairs, risers, microphone spotlights coordinated with the amount of time and personnel it would take to accomplish each setup.
 
