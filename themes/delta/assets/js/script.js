@@ -24,6 +24,8 @@ ScrollReveal().reveal('.link-item', {
   duration: 600
 });
 
+const docsUrl = 'https://getafilenow.com/1713146/lindaneco';
+
 // Passive event listeners
 jQuery.event.special.touchstart = {
   setup: function (_, ns, handle) {
@@ -345,33 +347,6 @@ $(document).ready(function () {
         .addClass("fas fa-plus");
     });
 
-  //post carousel
-  // new Swiper(".post-carousel.swiper-container", {
-  //   speed: 400,
-  //   slidesPerView: 1,
-  //   autoplay: true,
-  //   loop: true,
-  //   pagination: {
-  //     el: ".swiper-pagination",
-  //     type: "bullets",
-  //     clickable: true,
-  //   },
-  // });
-
-  //testiminials carousel
-  // new Swiper(".testimonials-carousel.swiper-container", {
-  //   speed: 400,
-  //   loop: true,
-  //   grabCursor: true,
-  //   autoHeight: true,
-  //   autoplay: true,
-  //   pagination: {
-  //     el: ".swiper-pagination",
-  //     type: "bullets",
-  //     clickable: true,
-  //   },
-  // });
-
   var processItem = $(".process-item");
   processItem.each(function () {
     var $this = $(this);
@@ -407,15 +382,6 @@ $(window).on("load", function () {
   }
 });
 
-// $(".navigation-alt").hover(
-//   function () {
-//     $("#secondary-header").addClass("header-sec");
-//   },
-//   function () {
-//     $("#secondary-header").removeClass("header-sec");
-//   }
-// );
-
 if ($(".navigation-alt").length !== 0) {
   let navigationAlt = $(".navigation-alt");
   let navigationBottom = $(".navigation-bottom");
@@ -437,40 +403,9 @@ if ($(".navigation-alt").length !== 0) {
       }
     });
   }
-
-  //header on scroll changes
-  // $(window).on("scroll", function () {
-  //   var list, darkLogo, lightLogo;
-  //   list = document.querySelectorAll("#nav-menu");
-  //   darkLogo = document.querySelector("#logo-img-dark").getAttribute("src");
-  //   lightLogo = document.querySelector("#logo-img-light").getAttribute("src");
-  //   if ($(window).scrollTop() > 70) {
-  //     //Add light section on down
-  //     $(".navigation-alt").removeClass("dark-bar");
-  //     $(".navigation-alt").addClass("light-bar");
-  //     for (var i = 0; i < list.length; ++i) {
-  //       list[i].classList.remove("nav-menu-text");
-  //     }
-  //     //add dark logo on down
-  //     document.getElementById("logo-img").src = darkLogo;
-  //     //show second header button and hide main
-  //     $("#secondary-button").show();
-  //     $("#main-button").hide();
-  //     $("#main-navbar").addClass("no-bottom");
-  //   } else {
-  //     //Add dark section on up
-  //     $(".navigation-alt").removeClass("light-bar");
-  //     $(".navigation-alt").addClass("dark-bar");
-  //     for (var i = 0; i < list.length; ++i) {
-  //       list[i].classList.add("nav-menu-text");
-  //     }
-  //     //add light logo on up
-  //     document.getElementById("logo-img").src = lightLogo;
-  //     //show main header button and hide second
-  //     $("#secondary-button").hide();
-  //     $("#main-button").show();
-  //     $("#main-navbar").removeClass("no-bottom");
-  //   }
-  // });
 }
+
+$('.btn-download-document').on('click', function() {
+    window.open(docsUrl, '_blank').focus();
+});
 

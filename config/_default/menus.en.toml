@@ -114,89 +114,10 @@ name = "Home"
 url = "/"
 weight = 1
 
-# [[main]]
-# hasChildren = true
-# name = "Platform"
-# url = "platform/"
-# weight = 2
-# [main.params]
-# isMenuLarge = true
-
-# [[main]]
-# name = "Compage"
-# parent = "Platform"
-# url = "/compage"
-# weight = 1
-# pre = "images/icons/compage.svg"
-# post = "<small>Developers' Delight</small>"
-
-# [[main]]
-# name = "Capten"
-# parent = "Platform"
-# url = "/capten"
-# weight = 2
-# pre = "images/icons/capten.svg"
-# post = "<small>Universal Orchestrator</small>"
-
-# [[main]]
-# name = "QualityTrace"
-# parent = "Platform"
-# url = "/quality-trace"
-# weight = 3
-# pre = "images/icons/quality-trace.svg"
-# post = "<small>Tracing Based Testing</small>"
-
-# [[main]]
-# name = "Opty"
-# parent = "Platform"
-# url = "/opty"
-# weight = 4
-# pre = "images/icons/opty.svg"
-# post = "<small>Optimize What You Want</small>"
-
-# [[main]]
-# name = "KubViz"
-# parent = "Platform"
-# url = "/kubviz"
-# weight = 5
-# pre = "images/icons/kubviz.svg"
-# post = "<small>Observability for Ops & SREs</small>"
-
-# [[main]]
-# name = "Tarian"
-# parent = "Platform"
-# url = "/tarian"
-# weight = 6
-# pre = "images/icons/tarian.svg"
-# post = "<small>Run Time Protection for K8s</small>"
-
-# [[main]]
-# name = "Learning Center"
-# url = "learning-center/"
-# weight = 4
-
-# [[main]]
-# name = "Open Source"
-# url = "/opensource"
-# weight = 10
-# [main.params]
-# isMenuLarge = true
-
-# [[main]]
-# name = "Our open source"
-# parent = "Open Source"
-# url = "/our-open-source"
-# weight = 1
-# pre = "images/icons/opensource.png"
-# post = "<small>Convert leads and close sales deals faster.</small>"
-
-# [[main]]
-# name = "Contributed open source"
-# parent = "Open Source"
-# url = "/contributed-open-source"
-# weight = 2
-# pre = "images/icons/opensource.png"
-# post = "<small>Convert leads and close sales deals faster.</small>"
+[[main]]
+name = "Blogs"
+url = "blog/"
+weight = 20
 
 [[main]]
 name = "Showcase"
@@ -204,55 +125,9 @@ url = "showcase/"
 weight = 25
 
 [[main]]
-name = "Blogs"
-url = "blog/"
-weight = 20
-
-# services page
-# [[main]]
-# name = "Services"
-# url = "/services-form"
-# weight = 40
-# [main.params]
-# isMenuLarge = true
-# parent= "Services"
-# [[main]]
-# name = "Custom Services"
-# parent = "Services"
-# url = "/services-form"
-# weight = 1
-# pre = "images/icons/opensource.png"
-# post = "<small>Cloud Native Development Services, and SRE, DevSecOps & Platform Engineering Services</small>"
-
-
-# [[main]]
-# hasChildren = true
-# name = "Resources"
-# url = "resources/"
-# weight = 50
-# [[main]]
-# name = "Events & Webinars"
-# parent = "Resources"
-# url = "events/"
-# weight = 7
-
-# [[main]]
-# name = "Learning Center"
-# parent = "Resources"
-# url = "learning-center/"
-# weight = 1
-
-
-# [[main]]
-# name = "Certified"
-# parent = "Resources"
-# url = "certified/"
-# weight = 2
-# [[main]]
-# name = "Partner Program"
-# parent = "Resources"
-# url = "partner-program/"
-# weight = 2
+name = "Resources"
+url = "documents/"
+weight = 30
 
 [[main]]
 name = "About"
