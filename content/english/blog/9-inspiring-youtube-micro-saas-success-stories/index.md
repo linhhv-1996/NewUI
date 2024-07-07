@@ -1,5 +1,5 @@
 ---
-date: 2024-07-07
+date: 2024-07-06
 title: 9 Inspiring YouTube Micro SaaS Success Stories | From Idea to Profitable Business
 description: 9 Inspiring YouTube Micro SaaS Success Stories | From Idea to Profitable Business.
 image: images/blog/9-inspiring-youtube-micro-saas-success-stories/1.webp
