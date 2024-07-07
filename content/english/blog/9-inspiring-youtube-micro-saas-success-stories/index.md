@@ -41,7 +41,7 @@ They've been used by some huge creators. Here we can see Ali Abdaal, Starter Sto
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/3.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass example is founded by Will Hankinson and it's called [Intro Maker](https://intromaker.com/) and it does a self reported $3,600 a month in recurring revenue. Revenue and the product intro Maker is the easiest way to make a YouTube video intro so you can customize your video in seconds without downloading any software. It's going to give you tons of different templates you can build off of so you can create a really professional intro for your YouTube channel in just a few clicks here.
+Our next micro sass example is founded by Will Hankinson and it's called [Intro Maker](https://intromaker.com/) and it does a self reported $3,600 a month in recurring revenue. Revenue and the product intro Maker is the easiest way to make a YouTube video intro so you can customize your video in seconds without downloading any software. It's going to give you tons of different templates you can build off of so you can create a really professional intro for your YouTube channel in just a few clicks.
 
 It looks like they have intros for just about every niche from gaming technology to travel and outdoor channels. 
 
