@@ -35,7 +35,7 @@ So let's start things off with our first example, [Thumbnail Test](http://thumbn
 
 The competition charges two times as much for half the value. And so rocks came in with their YouTube a b testing tool that's going to allow you to get more clicks and views so you can test the best version of your YouTube video. This way you don't have to guess when you launch a thumbnail.
 
-They've been used by some huge creators. Here we can see Ali Abdall, Microsoft read, starter story and more. As with YouTube videos, your thumbnail and title are so key to the video's success as that's going to entice people to go and watch it. It's kind of amazing that YouTube doesn't have this feature built in automatically for all accounts, but this gave rocks the opportunity to come in and create a product that people really needed. They've served over 1000 plus channels and 2.6 billion or just about views have been measured, which is a crazy amount.
+They've been used by some huge creators. Here we can see Ali Abdaal, Starter Story and more. As with YouTube videos, your thumbnail and title are so key to the video's success as that's going to entice people to go and watch it. It's kind of amazing that YouTube doesn't have this feature built in automatically for all accounts, but this gave rocks the opportunity to come in and create a product that people really needed. They've served over 1000 plus channels and 2.6 billion or just about views have been measured, which is a crazy amount.
 
 #### Intro Maker - Create professional video intros for your YouTube channel
 
