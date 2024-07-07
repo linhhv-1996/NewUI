@@ -4,7 +4,10 @@
   position: sticky;
   z-index: 333;
   top: 0;
-  border-bottom: 1px solid #e6e6e6;
+  // border-bottom: 1px solid #e6e6e6;
+  box-shadow: 0 2px 4px rgba(33, 51, 67, .12);
+  -webkit-box-shadow: 0 2px 4px rgba(33, 51, 67, .12);
+  -moz-box-shadow: 0 2px 4px rgba(33, 51, 67, .12);
 
   .container-delta {
     @media (min-width: 1600px) {
