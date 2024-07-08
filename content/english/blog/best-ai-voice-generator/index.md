@@ -1,7 +1,7 @@
 ---
 date: 2024-06-22
-title: BEST AI Voice Generator | ElevenLabs
-description: Today we're going to look at how you can use the most realistic sounding text to speech software that currently exists.
+title: BEST AI Voice Generator | Best Elevenlabs Text to Voice
+description: BEST AI Voice Generator | Best Elevenlabs Text to Voice.
 image: images/blog/best-ai-voice-generator/1.webp
 
 cover_image: false
