@@ -1,5 +1,5 @@
 ---
-date: 2024-07-08
+date: 2024-07-07
 title: Building a Career in the Age of AI - 9 Lessons from Andrew Ng
 description: Building a Career in the Age of AI - 9 Lessons from Andrew Ng.
 image: images/blog/building-a-career-in-the-age-of-ai-lessons-from-andrew-ng/1.webp
