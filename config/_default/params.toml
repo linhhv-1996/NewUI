@@ -114,10 +114,10 @@ clickup_iframe_url = ""
 icon = "fab fa-twitter"
 link = "https://twitter.com/lllindane"
 title = "X"
-[[social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/hoang-van-linh-173362256/"
-title = "Linkedin"
+# [[social]]
+# icon = "fab fa-linkedin"
+# link = "https://www.linkedin.com/in/hoang-van-linh-173362256/"
+# title = "Linkedin"
 [[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/profile.php?id=61562039192202"
