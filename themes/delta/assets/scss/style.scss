@@ -409,4 +409,12 @@ blockquote p{
     font-size: 14px;
 }
 
+.quick-links li:first-child {
+    margin-left: 0 !important;
+}
 
+@media screen and (max-width: 767px) {
+    .formkit-background {
+        display: none;
+    }
+}

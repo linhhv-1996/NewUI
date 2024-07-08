@@ -123,6 +123,10 @@ icon = "fab fa-facebook"
 link = "https://www.facebook.com/profile.php?id=61562039192202"
 title = "Facebook"
 [[social]]
+icon = "fab fa-telegram"
+link = "https://t.me/binarybearcomunity"
+title = "Telegram"
+[[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/@lindanehere"
 title = "Youtube"
