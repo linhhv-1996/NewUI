@@ -27,7 +27,7 @@ draft: false
 {{< image src="images/blog/10-micro-saas-examples-built-for-notion-users/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
 
-10 micro sass examples that are all built to integrate directly with Notion. For each of these examples, we'll be taking a look at their self reported revenue, who they were founded by, as well as what the product does. 
+10 micro saas examples that are all built to integrate directly with Notion. For each of these examples, we'll be taking a look at their self reported revenue, who they were founded by, as well as what the product does. 
 
 I think you really like number eight here, so make sure you stay until the end of the article.
 
@@ -47,7 +47,7 @@ In terms of how this product was launched, the founder went into notion based Fa
 
 {{< image src="images/blog/10-micro-saas-examples-built-for-notion-users/3.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass example is called Data Jumbo. It does a self reported $800 a month in recurring revenue. And it was founded by Dan Santos.
+Our next micro saas example is called Data Jumbo. It does a self reported $800 a month in recurring revenue. And it was founded by Dan Santos.
 
 The idea behind this tool was to make it super easy for companies to quickly and easily display data from their notion database. As realistically, it's going to be so hard to understand trends from just data alone, and being able to visualize it and display it to your team is going to be super valuable and it's going to utilize notion as that's such a popular way to store data in terms of revenue generation. They're going to charge on a monthly and yearly basis, and they're also focused on enterprise plans.
 

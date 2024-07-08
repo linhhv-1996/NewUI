@@ -50,7 +50,7 @@ But maybe you can tailor this for course providers. You go and talk to a few, fi
 
 #### Idea 2: Fix My Email
 
-The second micro sass idea is what I'm going to call fix my email. So starting February 1, 2024, you're going to see Yahoo and Gmail come up with new spam regulations. They're following Apple's initiative that was done last year to try to target more spam and cold emails, so they're getting much more strict here on what they allow in the primary tab.
+The second micro saas idea is what I'm going to call fix my email. So starting February 1, 2024, you're going to see Yahoo and Gmail come up with new spam regulations. They're following Apple's initiative that was done last year to try to target more spam and cold emails, so they're getting much more strict here on what they allow in the primary tab.
 
 You may be surprised to hear Yahoo is in there, but it's still a really big email player. So with email, even if you're just sending updates to whoever you have on your newsletter list, you make sure you have things set up such as your DMARC, your SPF to go and add these records, you need to log into your DNS. You need to find the advanced settings and then figure out how to actually add these records.
 
@@ -72,7 +72,7 @@ So maybe if there are negative sentiments in that comment that can hurt the over
 
 #### Idea 4: Ads Optimization
 
-The fourth micro sass idea is going to involve ads again, and this one's going to be AI creative.
+The fourth micro saas idea is going to involve ads again, and this one's going to be AI creative.
 
 Testing using Meta ads is all about creating really good ads that go and engage different segments of the market, but it can be hard to know what to test next. Maybe it's a different hypothesis for targeting a different niche. Maybe it's I need to go and optimize an existing hypothesis that I've already tested that's doing really well.
 
@@ -99,7 +99,7 @@ It's usually shorter lived, but they can generate a ton of views as if a topic i
 
 So with YouTube videos, there are some specific things that determine the overall effectiveness of the video, and two of the main ones are the title of the video and the thumbnail. And you have plenty of older videos that really just didn't do well. They get a few hundred views.
 
-The title could use some optimization and the thumbnail definitely could use an optimization, but you don't really know if it's worth fixing. You would love to see a micro sass tool that goes through all your previously uploaded videos checks if they're still getting impressions, compares it to your average performance, and makes suggestions for you. If you want, You could also alter this a little bit by instead of giving feedback on reviving old videos, it can tell you what you're doing wrong. So let's say the average watch time is below. Maybe the first 30 seconds is below your average.
+The title could use some optimization and the thumbnail definitely could use an optimization, but you don't really know if it's worth fixing. You would love to see a micro saas tool that goes through all your previously uploaded videos checks if they're still getting impressions, compares it to your average performance, and makes suggestions for you. If you want, You could also alter this a little bit by instead of giving feedback on reviving old videos, it can tell you what you're doing wrong. So let's say the average watch time is below. Maybe the first 30 seconds is below your average.
 
 You could also look at the positive this video did x well and a really good CTR and a really good average watch duration. You should keep more of doing this if you've gone this far.
 

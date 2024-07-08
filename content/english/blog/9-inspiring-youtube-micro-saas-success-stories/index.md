@@ -25,7 +25,7 @@ draft: false
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-9 amazing micro sass examples that all target YouTube users and creators. For each of these examples, we'll be taking a look at what the product does, their self reported revenue, who it was founded by all to give you inspiration on different micro sass examples that are out there. 
+9 amazing micro saas examples that all target YouTube users and creators. For each of these examples, we'll be taking a look at what the product does, their self reported revenue, who it was founded by all to give you inspiration on different micro saas examples that are out there. 
 
 #### Thumbnail Test - A tool for creating eye-catching thumbnails
 
@@ -41,7 +41,7 @@ They've been used by some huge creators. Here we can see Ali Abdaal, Starter Sto
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/3.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass example is founded by Will Hankinson and it's called [Intro Maker](https://intromaker.com/) and it does a self reported $3,600 a month in recurring revenue. Revenue and the product intro Maker is the easiest way to make a YouTube video intro so you can customize your video in seconds without downloading any software. It's going to give you tons of different templates you can build off of so you can create a really professional intro for your YouTube channel in just a few clicks.
+Our next micro saas example is founded by Will Hankinson and it's called [Intro Maker](https://intromaker.com/) and it does a self reported $3,600 a month in recurring revenue. Revenue and the product intro Maker is the easiest way to make a YouTube video intro so you can customize your video in seconds without downloading any software. It's going to give you tons of different templates you can build off of so you can create a really professional intro for your YouTube channel in just a few clicks.
 
 It looks like they have intros for just about every niche from gaming technology to travel and outdoor channels. 
 
@@ -67,25 +67,25 @@ It does a self reported $100 a month in recurring revenue, and it was founded by
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/6.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-This next micro sass example is called [Tube Transcripts](https://www.tubetranscripts.com/) and it has two co founders, Rudy and Stefan. This does a self reported  $150 a month in recurring revenue, and it's gonna allow you to get more views, more watch time in just one click. It's gonna transcribe directly from YouTube Studios, rank your videos better, and make these subtitles pleasant and easy to read. And this was built because the native YouTube tool struggles with technical terms with their accent and isn't always accurate. And so this tool helps fix that problem, letting you get human transcript quality for 4% of the cost done in just minutes instead of hours.
+This next micro saas example is called [Tube Transcripts](https://www.tubetranscripts.com/) and it has two co founders, Rudy and Stefan. This does a self reported  $150 a month in recurring revenue, and it's gonna allow you to get more views, more watch time in just one click. It's gonna transcribe directly from YouTube Studios, rank your videos better, and make these subtitles pleasant and easy to read. And this was built because the native YouTube tool struggles with technical terms with their accent and isn't always accurate. And so this tool helps fix that problem, letting you get human transcript quality for 4% of the cost done in just minutes instead of hours.
 
 #### PocketTube - Manage your YouTube subscriptions and videos more efficiently
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/7.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass is founded by Dima Nabuk and it's called [PocketTube](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) and it's a tool that's going to help you organize your huge subscription lists on YouTube. It does a self reported $500 a month in recurring revenue, although this may be outdated as they are trusted by 300,000 plus users and it gives you a ton of functionality such as creating custom groups for your subscriptions. You can watch a personal feed and you can filter videos by lengths, data type and content. It's been featured in places such as Lifehacker and PC, and they have both iOS and Android apps as well as being available for just about every web platform. 
+Our next micro saas is founded by Dima Nabuk and it's called [PocketTube](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) and it's a tool that's going to help you organize your huge subscription lists on YouTube. It does a self reported $500 a month in recurring revenue, although this may be outdated as they are trusted by 300,000 plus users and it gives you a ton of functionality such as creating custom groups for your subscriptions. You can watch a personal feed and you can filter videos by lengths, data type and content. It's been featured in places such as Lifehacker and PC, and they have both iOS and Android apps as well as being available for just about every web platform. 
 
 #### YT Tracker - Track your YouTube channel's stats and analytics
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/8.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass product is called [YT Tracker](https://www.yttracker.app/), It does a self reported $200 a month in recurring revenue, though that may be outdated here as they have almost 240,000 downloads for their Chrome extension. This tool is going to make it very easy to export public, real time YouTube video channel analytics to a Google sheet. All you have to do is paste the video or channel id into the first column and then YouTube tracker is going to do the rest. It's also going to use the YouTube data API to pull data letting you export 1000 video details in approximately 57 seconds, which is extremely fast. 
+Our next micro saas product is called [YT Tracker](https://www.yttracker.app/), It does a self reported $200 a month in recurring revenue, though that may be outdated here as they have almost 240,000 downloads for their Chrome extension. This tool is going to make it very easy to export public, real time YouTube video channel analytics to a Google sheet. All you have to do is paste the video or channel id into the first column and then YouTube tracker is going to do the rest. It's also going to use the YouTube data API to pull data letting you export 1000 video details in approximately 57 seconds, which is extremely fast. 
 
 #### Auto Repurpose - Automatically repurpose your YouTube content for other platforms
 
 {{< image src="images/blog/9-inspiring-youtube-micro-saas-success-stories/9.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-Our next micro sass example was founded by Tashi Kato. It's called [Auto Repurpose AI](https://www.autorepurpose.io/) and it actually hit the number one product hunt of the day.
+Our next micro saas example was founded by Tashi Kato. It's called [Auto Repurpose AI](https://www.autorepurpose.io/) and it actually hit the number one product hunt of the day.
 
 And it's gonna allow you to repurpose your YouTube videos to grow your social media ten times faster so you can turn your YouTube videos into text content for Twitter threads, LinkedIn posts, newsletters and more. And all you have to do is make a YouTube video. It's trusted by over 2000 plus users and overall it's a very simple process. All you have to do is choose the video, submit the URL, then you can wait and get your results. And this product was actually just rebranded a few days ago. It was originally auto thread AI and they had over 2000 signups to that.
 
@@ -98,7 +98,7 @@ And it lets you do the same thing from YouTube to Twitter. But the rebranding to
 Our last example is called [Dubtitles](https://dubtitles.io/), so you can auto generate subtitles for your YouTube videos and podcasts of any language. And it can also take translations from one language to another for these subtitles as well, using AI driven accuracy when over 50 plus languages are supported, also gonna have features such as SEO enhanced subtitles.
 
 #### Conclusion
-So this is going to conclude the post here on 9 different micro sass examples that are all targeting YouTube users. Now stop reading and go build something. 
+So this is going to conclude the post here on 9 different micro saas examples that are all targeting YouTube users. Now stop reading and go build something. 
 
 Ready to launch your SaaS business? 
 
