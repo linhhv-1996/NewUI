@@ -30,8 +30,8 @@ contact_form_action = "#!"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Business", "Marketing", "SEO", "SaaS", "Android", "Ios", "Monetization", "Technology", "Review", "Cloud-Native", "Ai", "DevOps", "Kubernetes", "Talent", "Book"]
-description = "SaaS strategies, marketing insights, and expert knowledge. Boost your business with actionable tips and industry trends. Join our community of innovators."
+keywords = ["saas", "android", "micro saas ideas", "ios", "micro saas", "business name ideas", "car wash name ideas", "cosmetic brand name ideas", "flower shop name ideas", "notary business name ideas", "trucking business name ideas", "affiliate marketing", "best elevenlab voice", "dessert business name ideas", "ai saas", "etsy"]
+description = "SaaS strategies, micro saas, marketing insights, business name ideas and expert knowledge. Boost your saas business with actionable tips and industry trends."
 author = "LinDane"
 image = "images/og-image.png"
 
