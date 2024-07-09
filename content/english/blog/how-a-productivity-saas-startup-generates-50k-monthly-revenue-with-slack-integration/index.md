@@ -27,7 +27,7 @@ draft: false
 
 How a slack bot makes $50,000 every month?
 
-You're going to be learning about an amazing SaaS journey, including how they got their first customers, why they built this product, and how they're continuing to grow. 
+You\'re going to be learning about an amazing SaaS journey, including how they got their first customers, why they built this product, and how they\'re continuing to grow. 
 
 #### What is karma bot?
 

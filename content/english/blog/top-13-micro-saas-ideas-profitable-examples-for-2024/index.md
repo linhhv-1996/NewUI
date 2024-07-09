@@ -26,9 +26,9 @@ draft: false
 
 Top 13 Micro SaaS Ideas - Profitable Examples for 2024.
 
-That's going to give you some really good inspiration for each of these micro saas products. 
+That\'s going to give you some really good inspiration for each of these micro saas products. 
 
-We'll be taking a look at what they do, who they were founded by and their overall revenue.
+We\'ll be taking a look at what they do, who they were founded by and their overall revenue.
 
 #### InAppStory - Redefining engagement strategies for businesses
 
