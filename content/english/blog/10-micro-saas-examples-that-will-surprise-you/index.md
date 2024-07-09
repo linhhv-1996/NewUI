@@ -26,7 +26,7 @@ draft: false
 
 {{< image src="images/blog/10-micro-saas-examples-that-will-surprise-you/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
-I\'ll be going over 10 different micro SaaS examples. You\'re looking for inspiration, you want to see the competition that's out there, but it's hard to find these microsass products. That's where I have you covered.
+I\'ll be going over 10 different micro SaaS examples. You\'re looking for inspiration, you want to see the competition that's out there, but it's hard to find these micro saas products. That's where I have you covered.
 
 For each of these products, we'll be taking a look at what they do, who they were founded by and their estimated revenue. You can really see what's out there.
 

@@ -16,13 +16,9 @@ categories:
 - Technology
 
 tags:
-
-# image color code in undraw.co #FB7E44 
 feedback: false
 draft: false
 ---
-
-{{< image src="images/blog/the-future-is-now-8-breakthrough-technologies-of-2024/1.webp" alt="alter-text" height="" width="1920px" class="img-fluid mb-3" caption="" webp="true" position="float-left" >}}
 
 Every year, there are new technologies that make a difference in the world. 2024 is turning out to be amazing for new inventions. This year, technology is changing the way we do almost everything, and it's exciting to see what's next.
 
