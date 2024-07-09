@@ -409,3 +409,7 @@ $('.btn-download-document').on('click', function() {
     window.open(docsUrl, '_blank').focus();
 });
 
+$('.home-menu article').on('click', function(){
+    const link = $(this).attr('data-link');
+    window.open(link, "_self").focus();
+});

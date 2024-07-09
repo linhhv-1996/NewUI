@@ -418,3 +418,48 @@ blockquote p{
         display: none;
     }
 }
+
+.home-menu {
+    margin-bottom: 0px;
+}
+
+
+.home-menu .blog-border-card img {
+    border: 1px solid #e9e9e9;
+    border-bottom: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 100px !important;
+    object-fit: contain;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.home-menu article {
+    text-align: center;
+    transition: all .2s ease-in-out;
+}
+
+.home-menu .blog-title:hover {
+    color: #222222 !important;
+    text-decoration: none;
+}
+
+.home-menu article:hover {
+    // box-shadow: 2px 1px 6px 3px #f38d5e24 !important;
+    scale: 1.05;
+    cursor: pointer !important;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    transition: all .2s;
+}
+
+.blog-section {
+    padding-top: 60px;
+    margin-bottom: 80px;
+}
+
+.mb-110 {
+    margin-bottom: 110px;
+}
+

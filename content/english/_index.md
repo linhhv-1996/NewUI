@@ -118,14 +118,14 @@ testimonials:
 
 blog:
   enable: true
-  subtitle: Recent Articles
+  subtitle: Featured Articles
   subtitle_color: "#FF5100"
   title: "Stay Informed, Stay Ahead"
   title_color: "black"
-  description: Discover the latest insights and trends with my curated selection of recent articles, <br>keeping you informed and inspired.
+  description: Discover the latest insights and trends with my curated selection of featured articles, <br>keeping you informed and inspired.
   description_color: ""
   button:
-    enable: true
+    enable: false
     link: blog/
     label: Read All Posts
     icon: fas fa-arrow-right

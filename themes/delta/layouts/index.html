@@ -301,13 +301,15 @@
 
 <!-- {{ partial "showcase.html" . }} -->
 
+{{ partial "home-menu.html" . }}
+
 <!-- {{ partial "affiliate.html" . }} -->
 
 <!-- {{ partial "book.html" . }} -->
 
 {{with .Params.blog}}
 {{if .enable}}
-<section class="section wrap-block bg-soft rounded-lg wave-block blog-block pb-0">
+<section class="blog-section section wrap-block bg-soft rounded-lg wave-block blog-block pb-0">
   <div class="container container-delta">
     <div class="row">
       <div class="col-12 text-center">
