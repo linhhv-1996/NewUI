@@ -145,6 +145,7 @@ I think a strong social feature in this could help increase engagement and key f
 
 At pickleball, maybe you're niching down even further and you're focusing on people over 60 who want to play Pickleball. This is the ultimate app for you to help improve your performance in your age demographic.
 
-We went over 11 different microsass ideas. 
+We went over 11 different microsass ideas. You can start this weekend.
 
-You can start this weekend.
+##### You Also Read:
+- [5 Lessons I Learned after Building A Micro-SaaS Side Hustle](https://lindane.co/blog/5-lessons-i-learned-after-building-a-micro-saas-side-hustle/)
