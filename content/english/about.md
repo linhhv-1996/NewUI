@@ -3,11 +3,11 @@ title: About Me
 description: About.
 date: "2023-08-29"
 searchKeyword: "about, about us"
-layout: privacy-policy
+layout: about
 bannertext: About Me
 bannertext_color: ""
 bannerimage: images/banner/contactpage/contactpage-banner-image.svg
-enable: true
+enable: false
 ---
 ##### Hi, I'm Lin Dane
 

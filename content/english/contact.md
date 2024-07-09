@@ -6,7 +6,7 @@ layout: contact
 bannertext: Talk2Us
 bannertext_color: ""
 bannerimage: images/banner/contactpage/contactpage-banner-image.svg
-enable: true
+enable: false
 # contact
 contact:
   subtitle: "We Are the Pioneer"
